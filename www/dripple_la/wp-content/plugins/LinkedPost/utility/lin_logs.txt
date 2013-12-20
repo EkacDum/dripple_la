@@ -1,0 +1,127 @@
+
+
+----------------------
+USER : 51
+GROUP ID : 6527947
+REQUEST : <?xml version="1.0" encoding="UTF-8"?>				 
+					<post>
+						<title>Foulke promotes healthy living at youth clinic</title>
+						<summary>"I think times have changed a lot since 30 years ago, when I was a kid," Foulke said. </summary>
+						<content>
+							<submitted-url>http://boston.redsox.mlb.com/news/article.jsp?ymd=20131024&amp;content_id=63304408&amp;notebook_id=63306078&amp;vkey=notebook_bos&amp;c_id=bos</submitted-url>
+							<submitted-image-url>http://www.drippost.com/100051/wp-content/uploads/sites/48//2013/10/911_495x275.jpg</submitted-image-url>
+							<title>Foulke promotes healthy living at youth clinic</title>
+							<description>BOSTON -- Keith Foulke stood in front of a couple hundred Boys &amp; Girls Clubs of America kids at the Roslindale Community Center on Thursday afternoon, and not a single one of them were old enough to recall that night that the Boston Red Sox finally won</description>
+						</content>
+					</post>
+{"linkedin":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<error>\n  <status>500<\/status>\n  <timestamp>1382707753796<\/timestamp>\n  <request-id>MLOEMWZKTA<\/request-id>\n  <error-code>0<\/error-code>\n  <message>Internal service error<\/message>\n<\/error>\n","info":{"url":"https:\/\/api.linkedin.com\/v1\/groups\/6527947\/posts","content_type":"text\/xml;charset=UTF-8","http_code":500,"header_size":521,"request_size":1422,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":1.084358,"namelookup_time":1.8e-5,"connect_time":0.165923,"pretransfer_time":0.509281,"size_upload":956,"size_download":246,"speed_download":226,"speed_upload":881,"download_content_length":246,"upload_content_length":0,"starttransfer_time":1.084328,"redirect_time":0,"certinfo":[]},"oauth":{"header":"Authorization: OAuth realm=\"http%3A%2F%2Fapi.linkedin.com\",oauth_version=\"1.0\",oauth_nonce=\"153a7cd5c6ddf037bccdee51cc597fd6\",oauth_timestamp=\"1382707752\",oauth_consumer_key=\"782a3kg6eadv\",oauth_token=\"b7fbfa71-f3c5-40b7-9aee-8eb14e1aad33\",oauth_signature_method=\"HMAC-SHA1\",oauth_signature=\"%2Fldsn3kdc2i2dGzngzVxMcsQCmA%3D\"","string":"POST&https%3A%2F%2Fapi.linkedin.com%2Fv1%2Fgroups%2F6527947%2Fposts&oauth_consumer_key%3D782a3kg6eadv%26oauth_nonce%3D153a7cd5c6ddf037bccdee51cc597fd6%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1382707752%26oauth_token%3Db7fbfa71-f3c5-40b7-9aee-8eb14e1aad33%26oauth_version%3D1.0"},"success":false,"error":"HTTP response from LinkedIn end-point was not code 201"}
+----------------------
+
+
+----------------------
+USER : 51
+GROUP ID : 6529547
+REQUEST : <?xml version="1.0" encoding="UTF-8"?>				 
+					<post>
+						<title>Foulke promotes healthy living at youth clinic</title>
+						<summary>"I think times have changed a lot since 30 years ago, when I was a kid," Foulke said. </summary>
+						<content>
+							<submitted-url>http://boston.redsox.mlb.com/news/article.jsp?ymd=20131024&amp;content_id=63304408&amp;notebook_id=63306078&amp;vkey=notebook_bos&amp;c_id=bos</submitted-url>
+							<submitted-image-url>http://www.drippost.com/100051/wp-content/uploads/sites/48//2013/10/911_495x275.jpg</submitted-image-url>
+							<title>Foulke promotes healthy living at youth clinic</title>
+							<description>BOSTON -- Keith Foulke stood in front of a couple hundred Boys &amp; Girls Clubs of America kids at the Roslindale Community Center on Thursday afternoon, and not a single one of them were old enough to recall that night that the Boston Red Sox finally won</description>
+						</content>
+					</post>
+{"linkedin":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<error>\n  <status>500<\/status>\n  <timestamp>1382707754733<\/timestamp>\n  <request-id>PYG2VRV9QZ<\/request-id>\n  <error-code>0<\/error-code>\n  <message>Internal service error<\/message>\n<\/error>\n","info":{"url":"https:\/\/api.linkedin.com\/v1\/groups\/6529547\/posts","content_type":"text\/xml;charset=UTF-8","http_code":500,"header_size":521,"request_size":1420,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.952332,"namelookup_time":1.7e-5,"connect_time":0.166466,"pretransfer_time":0.511122,"size_upload":956,"size_download":246,"speed_download":258,"speed_upload":1003,"download_content_length":246,"upload_content_length":0,"starttransfer_time":0.952293,"redirect_time":0,"certinfo":[]},"oauth":{"header":"Authorization: OAuth realm=\"http%3A%2F%2Fapi.linkedin.com\",oauth_version=\"1.0\",oauth_nonce=\"42f7824840fa278cc7e08bc8bc2bf8d6\",oauth_timestamp=\"1382707753\",oauth_consumer_key=\"782a3kg6eadv\",oauth_token=\"b7fbfa71-f3c5-40b7-9aee-8eb14e1aad33\",oauth_signature_method=\"HMAC-SHA1\",oauth_signature=\"EjtCMSnKtZ8YlseEcim7jtTO1rk%3D\"","string":"POST&https%3A%2F%2Fapi.linkedin.com%2Fv1%2Fgroups%2F6529547%2Fposts&oauth_consumer_key%3D782a3kg6eadv%26oauth_nonce%3D42f7824840fa278cc7e08bc8bc2bf8d6%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1382707753%26oauth_token%3Db7fbfa71-f3c5-40b7-9aee-8eb14e1aad33%26oauth_version%3D1.0"},"success":false,"error":"HTTP response from LinkedIn end-point was not code 201"}
+----------------------
+
+
+----------------------
+USER : 51
+GROUP ID : 6527965
+REQUEST : <?xml version="1.0" encoding="UTF-8"?>				 
+					<post>
+						<title>Foulke promotes healthy living at youth clinic</title>
+						<summary>"I think times have changed a lot since 30 years ago, when I was a kid," Foulke said. </summary>
+						<content>
+							<submitted-url>http://boston.redsox.mlb.com/news/article.jsp?ymd=20131024&amp;content_id=63304408&amp;notebook_id=63306078&amp;vkey=notebook_bos&amp;c_id=bos</submitted-url>
+							<submitted-image-url>http://www.drippost.com/100051/wp-content/uploads/sites/48//2013/10/911_495x275.jpg</submitted-image-url>
+							<title>Foulke promotes healthy living at youth clinic</title>
+							<description>BOSTON -- Keith Foulke stood in front of a couple hundred Boys &amp; Girls Clubs of America kids at the Roslindale Community Center on Thursday afternoon, and not a single one of them were old enough to recall that night that the Boston Red Sox finally won</description>
+						</content>
+					</post>
+{"linkedin":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<error>\n  <status>500<\/status>\n  <timestamp>1382707755659<\/timestamp>\n  <request-id>U3CLJSVNVD<\/request-id>\n  <error-code>0<\/error-code>\n  <message>Internal service error<\/message>\n<\/error>\n","info":{"url":"https:\/\/api.linkedin.com\/v1\/groups\/6527965\/posts","content_type":"text\/xml;charset=UTF-8","http_code":500,"header_size":519,"request_size":1424,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.922724,"namelookup_time":1.7e-5,"connect_time":0.165709,"pretransfer_time":0.508713,"size_upload":956,"size_download":246,"speed_download":266,"speed_upload":1036,"download_content_length":246,"upload_content_length":0,"starttransfer_time":0.922686,"redirect_time":0,"certinfo":[]},"oauth":{"header":"Authorization: OAuth realm=\"http%3A%2F%2Fapi.linkedin.com\",oauth_version=\"1.0\",oauth_nonce=\"765ce8b364ea28ff6e89b2d9fac62934\",oauth_timestamp=\"1382707754\",oauth_consumer_key=\"782a3kg6eadv\",oauth_token=\"b7fbfa71-f3c5-40b7-9aee-8eb14e1aad33\",oauth_signature_method=\"HMAC-SHA1\",oauth_signature=\"AGLlCVeu%2FiTglHJHRn0yoq5%2FLgo%3D\"","string":"POST&https%3A%2F%2Fapi.linkedin.com%2Fv1%2Fgroups%2F6527965%2Fposts&oauth_consumer_key%3D782a3kg6eadv%26oauth_nonce%3D765ce8b364ea28ff6e89b2d9fac62934%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1382707754%26oauth_token%3Db7fbfa71-f3c5-40b7-9aee-8eb14e1aad33%26oauth_version%3D1.0"},"success":false,"error":"HTTP response from LinkedIn end-point was not code 201"}
+----------------------
+
+
+----------------------
+USER : 51
+GROUP ID : 6527947
+REQUEST : <?xml version="1.0" encoding="UTF-8"?>				 
+					<post>
+						<title>Foulke promotes healthy living at youth clinic</title>
+						<summary>"I think times have changed a lot since 30 years ago, when I was a kid," Foulke said. </summary>
+						<content>
+							<submitted-url>http://boston.redsox.mlb.com/news/article.jsp?ymd=20131024&amp;content_id=63304408&amp;notebook_id=63306078&amp;vkey=notebook_bos&amp;c_id=bos</submitted-url>
+							<submitted-image-url>http://www.drippost.com/100051/wp-content/uploads/sites/48//2013/10/3430_495x275.jpg</submitted-image-url>
+							<title>Foulke promotes healthy living at youth clinic</title>
+							<description>BOSTON -- Keith Foulke stood in front of a couple hundred Boys &amp; Girls Clubs of America kids at the Roslindale Community Center on Thursday afternoon, and not a single one of them were old enough to recall that night that the Boston Red Sox finally won</description>
+						</content>
+					</post>
+{"linkedin":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<error>\n  <status>500<\/status>\n  <timestamp>1382707758400<\/timestamp>\n  <request-id>MVEWAEQ3LL<\/request-id>\n  <error-code>0<\/error-code>\n  <message>Internal service error<\/message>\n<\/error>\n","info":{"url":"https:\/\/api.linkedin.com\/v1\/groups\/6527947\/posts","content_type":"text\/xml;charset=UTF-8","http_code":500,"header_size":520,"request_size":1423,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.923435,"namelookup_time":1.9e-5,"connect_time":0.166709,"pretransfer_time":0.51163,"size_upload":957,"size_download":246,"speed_download":266,"speed_upload":1036,"download_content_length":246,"upload_content_length":0,"starttransfer_time":0.923399,"redirect_time":0,"certinfo":[]},"oauth":{"header":"Authorization: OAuth realm=\"http%3A%2F%2Fapi.linkedin.com\",oauth_version=\"1.0\",oauth_nonce=\"2ff3675c25891175c1ad8daa19514d84\",oauth_timestamp=\"1382707757\",oauth_consumer_key=\"782a3kg6eadv\",oauth_token=\"b7fbfa71-f3c5-40b7-9aee-8eb14e1aad33\",oauth_signature_method=\"HMAC-SHA1\",oauth_signature=\"IPh7Dr288xUA8GpkR%2Fg7RLjKn4Q%3D\"","string":"POST&https%3A%2F%2Fapi.linkedin.com%2Fv1%2Fgroups%2F6527947%2Fposts&oauth_consumer_key%3D782a3kg6eadv%26oauth_nonce%3D2ff3675c25891175c1ad8daa19514d84%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1382707757%26oauth_token%3Db7fbfa71-f3c5-40b7-9aee-8eb14e1aad33%26oauth_version%3D1.0"},"success":false,"error":"HTTP response from LinkedIn end-point was not code 201"}
+----------------------
+
+
+----------------------
+USER : 51
+GROUP ID : 5145199
+REQUEST : <?xml version="1.0" encoding="UTF-8"?>				 
+					<post>
+						<title>Foulke promotes healthy living at youth clinic</title>
+						<summary>"I think times have changed a lot since 30 years ago, when I was a kid," Foulke said. </summary>
+						<content>
+							<submitted-url>http://boston.redsox.mlb.com/news/article.jsp?ymd=20131024&amp;content_id=63304408&amp;notebook_id=63306078&amp;vkey=notebook_bos&amp;c_id=bos</submitted-url>
+							<submitted-image-url>http://www.drippost.com/100051/wp-content/uploads/sites/48//2013/10/3430_495x275.jpg</submitted-image-url>
+							<title>Foulke promotes healthy living at youth clinic</title>
+							<description>BOSTON -- Keith Foulke stood in front of a couple hundred Boys &amp; Girls Clubs of America kids at the Roslindale Community Center on Thursday afternoon, and not a single one of them were old enough to recall that night that the Boston Red Sox finally won</description>
+						</content>
+					</post>
+{"linkedin":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<error>\n  <status>500<\/status>\n  <timestamp>1382707759312<\/timestamp>\n  <request-id>8JO84HK54S<\/request-id>\n  <error-code>0<\/error-code>\n  <message>Internal service error<\/message>\n<\/error>\n","info":{"url":"https:\/\/api.linkedin.com\/v1\/groups\/5145199\/posts","content_type":"text\/xml;charset=UTF-8","http_code":500,"header_size":520,"request_size":1423,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.926903,"namelookup_time":2.0e-5,"connect_time":0.166526,"pretransfer_time":0.513148,"size_upload":957,"size_download":246,"speed_download":265,"speed_upload":1032,"download_content_length":246,"upload_content_length":0,"starttransfer_time":0.926874,"redirect_time":0,"certinfo":[]},"oauth":{"header":"Authorization: OAuth realm=\"http%3A%2F%2Fapi.linkedin.com\",oauth_version=\"1.0\",oauth_nonce=\"fd03cef3245fb253c5d3462de4a1b7fe\",oauth_timestamp=\"1382707758\",oauth_consumer_key=\"782a3kg6eadv\",oauth_token=\"b7fbfa71-f3c5-40b7-9aee-8eb14e1aad33\",oauth_signature_method=\"HMAC-SHA1\",oauth_signature=\"Kn%2FW6shcqLuCFw4ywYNHrIjtoAM%3D\"","string":"POST&https%3A%2F%2Fapi.linkedin.com%2Fv1%2Fgroups%2F5145199%2Fposts&oauth_consumer_key%3D782a3kg6eadv%26oauth_nonce%3Dfd03cef3245fb253c5d3462de4a1b7fe%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1382707758%26oauth_token%3Db7fbfa71-f3c5-40b7-9aee-8eb14e1aad33%26oauth_version%3D1.0"},"success":false,"error":"HTTP response from LinkedIn end-point was not code 201"}
+----------------------
+
+
+----------------------
+USER : 51
+GROUP ID : 6529547
+REQUEST : <?xml version="1.0" encoding="UTF-8"?>				 
+					<post>
+						<title>Foulke promotes healthy living at youth clinic</title>
+						<summary>"I think times have changed a lot since 30 years ago, when I was a kid," Foulke said. </summary>
+						<content>
+							<submitted-url>http://boston.redsox.mlb.com/news/article.jsp?ymd=20131024&amp;content_id=63304408&amp;notebook_id=63306078&amp;vkey=notebook_bos&amp;c_id=bos</submitted-url>
+							<submitted-image-url>http://www.drippost.com/100051/wp-content/uploads/sites/48//2013/10/3430_495x275.jpg</submitted-image-url>
+							<title>Foulke promotes healthy living at youth clinic</title>
+							<description>BOSTON -- Keith Foulke stood in front of a couple hundred Boys &amp; Girls Clubs of America kids at the Roslindale Community Center on Thursday afternoon, and not a single one of them were old enough to recall that night that the Boston Red Sox finally won</description>
+						</content>
+					</post>
+{"linkedin":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<error>\n  <status>500<\/status>\n  <timestamp>1382707760254<\/timestamp>\n  <request-id>Z967O1E39I<\/request-id>\n  <error-code>0<\/error-code>\n  <message>Internal service error<\/message>\n<\/error>\n","info":{"url":"https:\/\/api.linkedin.com\/v1\/groups\/6529547\/posts","content_type":"text\/xml;charset=UTF-8","http_code":500,"header_size":519,"request_size":1423,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.936156,"namelookup_time":1.6e-5,"connect_time":0.165664,"pretransfer_time":0.508399,"size_upload":957,"size_download":246,"speed_download":262,"speed_upload":1022,"download_content_length":246,"upload_content_length":0,"starttransfer_time":0.936124,"redirect_time":0,"certinfo":[]},"oauth":{"header":"Authorization: OAuth realm=\"http%3A%2F%2Fapi.linkedin.com\",oauth_version=\"1.0\",oauth_nonce=\"c11025878dfa0fd061d498a3dfda2189\",oauth_timestamp=\"1382707759\",oauth_consumer_key=\"782a3kg6eadv\",oauth_token=\"b7fbfa71-f3c5-40b7-9aee-8eb14e1aad33\",oauth_signature_method=\"HMAC-SHA1\",oauth_signature=\"%2FnTs38KBTG1qectnduFsSWyRUZo%3D\"","string":"POST&https%3A%2F%2Fapi.linkedin.com%2Fv1%2Fgroups%2F6529547%2Fposts&oauth_consumer_key%3D782a3kg6eadv%26oauth_nonce%3Dc11025878dfa0fd061d498a3dfda2189%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1382707759%26oauth_token%3Db7fbfa71-f3c5-40b7-9aee-8eb14e1aad33%26oauth_version%3D1.0"},"success":false,"error":"HTTP response from LinkedIn end-point was not code 201"}
+----------------------
+
+
+----------------------
+USER : 51
+GROUP ID : 6527965
+REQUEST : <?xml version="1.0" encoding="UTF-8"?>				 
+					<post>
+						<title>Foulke promotes healthy living at youth clinic</title>
+						<summary>"I think times have changed a lot since 30 years ago, when I was a kid," Foulke said. </summary>
+						<content>
+							<submitted-url>http://boston.redsox.mlb.com/news/article.jsp?ymd=20131024&amp;content_id=63304408&amp;notebook_id=63306078&amp;vkey=notebook_bos&amp;c_id=bos</submitted-url>
+							<submitted-image-url>http://www.drippost.com/100051/wp-content/uploads/sites/48//2013/10/3430_495x275.jpg</submitted-image-url>
+							<title>Foulke promotes healthy living at youth clinic</title>
+							<description>BOSTON -- Keith Foulke stood in front of a couple hundred Boys &amp; Girls Clubs of America kids at the Roslindale Community Center on Thursday afternoon, and not a single one of them were old enough to recall that night that the Boston Red Sox finally won</description>
+						</content>
+					</post>
+{"linkedin":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<error>\n  <status>500<\/status>\n  <timestamp>1382707761196<\/timestamp>\n  <request-id>RN5GGPT7UG<\/request-id>\n  <error-code>0<\/error-code>\n  <message>Internal service error<\/message>\n<\/error>\n","info":{"url":"https:\/\/api.linkedin.com\/v1\/groups\/6527965\/posts","content_type":"text\/xml;charset=UTF-8","http_code":500,"header_size":519,"request_size":1421,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":1.062524,"namelookup_time":1.9e-5,"connect_time":0.165593,"pretransfer_time":0.508472,"size_upload":957,"size_download":246,"speed_download":231,"speed_upload":900,"download_content_length":246,"upload_content_length":0,"starttransfer_time":1.062495,"redirect_time":0,"certinfo":[]},"oauth":{"header":"Authorization: OAuth realm=\"http%3A%2F%2Fapi.linkedin.com\",oauth_version=\"1.0\",oauth_nonce=\"16e7d8d5e51cde8053bfefd115f0c1e3\",oauth_timestamp=\"1382707760\",oauth_consumer_key=\"782a3kg6eadv\",oauth_token=\"b7fbfa71-f3c5-40b7-9aee-8eb14e1aad33\",oauth_signature_method=\"HMAC-SHA1\",oauth_signature=\"tSK4gn2Z0H86DmYIVqL55eDquVE%3D\"","string":"POST&https%3A%2F%2Fapi.linkedin.com%2Fv1%2Fgroups%2F6527965%2Fposts&oauth_consumer_key%3D782a3kg6eadv%26oauth_nonce%3D16e7d8d5e51cde8053bfefd115f0c1e3%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1382707760%26oauth_token%3Db7fbfa71-f3c5-40b7-9aee-8eb14e1aad33%26oauth_version%3D1.0"},"success":false,"error":"HTTP response from LinkedIn end-point was not code 201"}
+----------------------
+

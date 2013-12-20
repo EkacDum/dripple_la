@@ -1,0 +1,1043 @@
+/************************ 21px */
+/************************ Group I */
+i.clock-d-21, i.magnify-d-21, i.qmark-d-21, i.ribbon-d-21, i.gear-d-21, i.person-d-21, i.arrowright-d-21, i.faq-d-21, i.cycle-d-21, i.listview-d-21, i.boxview-d-21, i.titleview-d-21, i.tileview-d-21, i.mashview-d-21, i.defaultview-d-21, i.smallboxview-d-21, i.taddtopic-d-21, i.ripples-d-21,                     i.clock-l-21, i.magnify-l-21, i.qmark-l-21, i.ribbon-l-21, i.gear-l-21, i.person-l-21, i.arrowright-l-21, i.faq-l-21, i.cycle-l-21, i.listview-l-21, i.boxview-l-21, i.titleview-l-21, i.tileview-l-21, i.mashview-l-21, i.defaultview-l-21, i.smallboxview-l-21, i.taddtopic-l-21, i.ripples-l-21{
+    display:block;
+    overflow:hidden;
+    background:url("../images/head-icons-21px.png")no-repeat;
+	height: 21px;
+	width: 21px;
+    cursor:pointer;
+}
+
+i.clock-d-21, i.clock-l-21:hover{
+    background-position: -2px -1px;
+}
+
+i.magnify-d-21, i.magnify-l-21:hover{
+    background-position: -30px -1px;
+}
+
+i.qmark-d-21, i.qmark-l-21:hover{
+    background-position: -58px -1px;
+}
+
+i.ribbon-d-21, i.ribbon-l-21:hover{
+    background-position: -79px -1px;
+}
+
+i.gear-d-21, i.gear-l-21:hover{
+    background-position: -103px -1px;
+}
+
+i.person-d-21, i.person-l-21:hover{
+    background-position: -131px -1px;
+}
+
+i.arrowright-d-21, i.arrowright-l-21:hover{
+    background-position: -156px -1px;
+}
+
+i.faq-d-21, i.faq-l-21:hover{
+    background-position: -181px -1px;
+    width:25px!important;
+}
+
+i.cycle-d-21, i.cycle-l-21:hover{
+    background-position: -212px -1px;
+}
+
+i.listview-d-21, i.listview-l-21:hover{
+    background-position: -240px -1px;
+}
+
+i.boxview-d-21, i.boxview-l-21:hover{
+    background-position: -269px -1px;
+}
+
+i.titleview-d-21, i.titleview-l-21:hover{
+    background-position: -297px -1px;
+}
+
+i.tileview-d-21, i.tileview-l-21:hover{
+    background-position: -325px -1px;
+}
+
+i.mashview-d-21, i.mashview-l-21:hover{
+    background-position: -354px -1px;
+}
+
+i.defaultview-d-21, i.defaultview-l-21:hover{
+    background-position: -382px -1px;
+}
+
+i.smallboxview-d-21, i.smallboxview-l-21:hover{
+    background-position: -410px -1px;
+}
+
+i.taddtopic-d-21, i.taddtopic-l-21:hover{
+    background-position: -439px -1px;
+}
+
+i.ripples-d-21, i.ripples-l-21:hover{
+	background-position: -467px -1px;
+	width:40px !important;
+}
+
+
+/* HOVER */
+i.clock-l-21, i.clock-d-21:hover{
+    background-position: -2px -30px;
+}
+
+i.magnify-l-21, i.magnify-d-21:hover{
+    background-position: -30px -30px;
+}
+
+i.qmark-l-21, i.qmark-d-21:hover{
+    background-position: -58px -30px;
+}
+
+i.ribbon-l-21, i.ribbon-d-21:hover{
+    background-position: -79px -30px;
+}
+
+i.gear-l-21, i.gear-d-21:hover{
+    background-position: -103px -30px;
+}
+
+i.person-l-21, i.person-d-21:hover{
+    background-position: -131px -30px;
+}
+
+i.arrowright-l-21, i.arrowright-d-21:hover{
+    background-position: -156px -30px;
+}
+
+i.faq-l-21, i.faq-d-21:hover{
+    background-position: -181px -30px;
+    width:25px!important;
+}
+
+i.cycle-l-21, i.cycle-d-21:hover{
+    background-position: -212px -30px;
+}
+
+i.listview-l-21, i.listview-d-21:hover{
+    background-position: -240px -30px;
+}
+
+i.boxview-l-21, i.boxview-d-21:hover{
+    background-position: -269px -30px;
+}
+
+i.titleview-l-21, i.titleview-d-21:hover{
+    background-position: -297px -30px;
+}
+
+i.tileview-l-21, i.tileview-d-21:hover{
+    background-position: -325px -30px;
+}
+
+i.mashview-l-21, i.mashview-d-21:hover{
+    background-position: -354px -30px;
+}
+
+i.defaultview-l-21, i.defaultview-d-21:hover{
+    background-position: -382px -30px;
+}
+
+i.smallboxview-l-21, i.smallboxview-d-21:hover{
+    background-position: -410px -30px;
+}
+
+i.taddtopic-l-21, i.taddtopic-d-21:hover{
+    background-position: -439px -30px;
+}
+
+i.ripples-l-21, i.ripples-d-21:hover{
+	background-position: -467px -30px;
+	width:40px !important;
+}
+
+/************************ end Group I */
+/********
+/********
+/********
+/************************ Group II */
+i.greydrip-d-21, i.crop-d-21, i.pencil-d-21, i.trash-d-21, i.write-d-21, i.doublearrowup-d-21, i.doublearrowdown-d-21, i.popup-d-21, i.eye-d-21, i.bubble-d-21, i.thumbsup-d-21, i.envelop-d-21, i.greyredrip-d-21, i.close-d-21, i.blueredrip-d-21, i.blueredrip-dg-21, i.bluedrip-d-21, i.blueanalysis-d-21, i.greyanalysis-d-21, i.greytotldrips-d-21, i.greycross-d-21 , i.turn-d-21,              i.greydrip-l-21, i.crop-l-21, i.pencil-l-21, i.trash-l-21, i.write-l-21, i.doublearrowup-l-21, i.doublearrowdown-l-21, i.popup-l-21, i.eye-l-21, i.bubble-l-21, i.thumbsup-l-21, i.envelop-l-21, i.greyredrip-l-21, i.close-l-21, i.blueredrip-l-21, i.bluedrip-l-21, i.blueanalysis-l-21, i.greyanalysis-l-21, i.greytotldrips-l-21, i.greycross-l-21, i.turn-l-21{
+    display:block;
+    overflow:hidden;
+    background:url("../images/item-icons-21px.png")no-repeat;
+	height: 21px;
+	width: 21px;
+    cursor:pointer;
+}
+
+i.greydrip-d-21, i.greydrip-l-21:hover{
+    background-position: -1px -1px;
+}
+
+i.crop-d-21, i.crop-l-21:hover{
+    background-position: -29px -1px;
+}
+
+i.pencil-d-21, i.pencil-l-21:hover{
+    background-position: -58px -1px;
+}
+
+i.trash-d-21, i.trash-l-21:hover{
+    background-position: -86px -1px;
+}
+
+i.write-d-21, i.write-l-21:hover{
+    background-position: -113px -1px;
+}
+
+i.doublearrowup-d-21, i.doublearrowup-l-21:hover{
+    background-position: -143px -1px;
+}
+
+i.doublearrowdown-d-21, i.doublearrowdown-l-21:hover{
+    background-position: -172px -1px;
+}
+
+i.popup-d-21, i.popup-l-21:hover{
+    background-position: -201px -1px;
+    width:25px!important;
+}
+
+i.eye-d-21, i.eye-l-21:hover{
+    background-position: -232px -1px;
+    width:33px!important;
+}
+
+i.bubble-d-21, i.bubble-l-21:hover{
+    background-position: -272px -1px;
+    width:23px;
+}
+
+i.thumbsup-d-21, i.thumbsup-l-21:hover{
+    background-position: -302px -1px;
+    width:23px;
+}
+
+i.envelop-d-21, i.envelop-l-21:hover{
+    background-position: -330px 0px;
+    width:29px!important;
+}
+
+i.greyredrip-d-21, i.greyredrip-l-21:hover{
+    background-position: -365px -2px;
+    width:23px!important;
+}
+
+i.close-d-21, i.close-l-21:hover{
+    background-position: -396px -1px;
+}
+
+i.blueredrip-d-21, i.blueredrip-dg-21, i.blueredrip-l-21:hover{
+    background-position: -424px -1px;
+    width:23px!important;
+}
+
+i.bluedrip-d-21, i.bluedrip-l-21:hover{
+    background-position: -453px -1px;
+}
+
+i.blueanalysis-d-21, i.blueanalysis-l-21:hover{
+    background-position: -480px -1px;
+}
+
+i.greyanalysis-d-21, i.greyanalysis-l-21:hover{
+    background-position: -507px -1px;
+}
+
+i.greytotldrips-d-21, i.greytotldrips-l-21:hover{
+    background-position: -535px -1px;
+    width:25px!important;
+}
+
+i.greycross-d-21, i.greycross-l-21:hover{
+    background-position: -566px -1px;
+    width:22px!important;
+}
+
+i.turn-d-21, i.turn-l-21:hover{
+    background-position: -594px -1px;
+    width:31px!important;
+}
+
+/* HOVER */
+
+
+i.greydrip-l-21, i.greydrip-d-21:hover{
+    background-position: -1px -30px;
+}
+
+i.crop-l-21, i.crop-d-21:hover{
+    background-position: -29px -30px;
+}
+
+i.pencil-l-21, i.pencil-d-21:hover{
+    background-position: -58px -30px;
+}
+
+i.trash-l-21, i.trash-d-21:hover{
+    background-position: -86px -30px;
+}
+
+i.write-l-21, i.write-d-21:hover{
+    background-position: -113px -30px;
+}
+
+i.doublearrowup-l-21, i.doublearrowup-d-21:hover{
+    background-position: -143px -30px;
+}
+
+i.doublearrowdown-l-21, i.doublearrowdown-d-21:hover{
+    background-position: -172px -30px;
+}
+
+i.popup-l-21, i.popup-d-21:hover{
+    background-position: -201px -30px;
+    width:25px!important;
+}
+
+i.eye-l-21, i.eye-d-21:hover{
+    background-position: -232px -30px;
+    width:33px!important;
+}
+
+i.bubble-l-21, i.bubble-d-21:hover{
+    background-position: -272px -30px;
+    width:23px;
+}
+
+i.thumbsup-l-21, i.thumbsup-d-21:hover{
+    background-position: -302px -30px;
+    width:23px;
+}
+
+i.envelop-l-21, i.envelop-d-21:hover{
+    background-position: -330px -30px;
+    width:29px!important;
+}
+
+i.greyredrip-l-21, i.blueredrip-dg-21:hover, i.greyredrip-d-21:hover{
+    background-position: -365px -31px;
+    width:23px!important;
+}
+
+i.close-l-21, i.close-d-21:hover{
+    background-position: -396px -30px;
+}
+
+i.blueredrip-l-21, i.blueredrip-d-21:hover{
+    background-position: -424px -30px;
+    width:23px!important;
+}
+
+i.bluedrip-l-21, i.bluedrip-d-21:hover{
+    background-position: -453px -30px;
+}
+
+i.blueanalysis-l-21, i.blueanalysis-d-21:hover{
+    background-position: -480px -30px;
+}
+
+i.greyanalysis-l-21, i.greyanalysis-d-21:hover{
+    background-position: -507px -30px;
+}
+
+i.greytotldrips-l-21, i.greytotldrips-d-21:hover{
+    background-position: -535px -30px;
+    width:25px!important;
+}
+
+i.greycross-l-21, i.greycross-d-21:hover{
+    background-position: -566px -30px;
+    width:22px!important;
+}
+
+i.turn-l-21, i.turn-d-21:hover{
+    background-position: -594px -30px;
+    width:31px!important;
+}
+/************************ end Group II */
+/************************ end 21px */
+/************************
+/************************
+/************************
+/************************
+/************************
+/************************
+/************************ 18px */
+/************************ Group I */
+i.clock-d-18, i.magnify-d-18, i.qmark-d-18, i.ribbon-d-18, i.gear-d-18, i.person-d-18, i.arrowright-d-18, i.faq-d-18, i.cycle-d-18, i.listview-d-18, i.boxview-d-18, i.titleview-d-18, i.tileview-d-18, i.mashview-d-18, i.defaultview-d-18, i.smallboxview-d-18, i.taddtopic-d-18,                     i.clock-l-18, i.magnify-l-18, i.qmark-l-18, i.ribbon-l-18, i.gear-l-18, i.person-l-18, i.arrowright-l-18, i.faq-l-18, i.cycle-l-18, i.listview-l-18, i.boxview-l-18, i.titleview-l-18, i.tileview-l-18, i.mashview-l-18, i.defaultview-l-18, i.smallboxview-l-18, i.taddtopic-l-18{
+    display:block;
+    overflow:hidden;
+    background:url("../images/head-icons-18px.png")no-repeat;
+	height: 18px;
+	width: 18px;
+    cursor:pointer;
+}
+
+i.clock-d-18, i.clock-l-18:hover{
+    background-position: -1px -1px;
+    width:19px!important;
+}
+
+i.magnify-d-18, i.magnify-l-18:hover{
+    background-position: -26px -2px;
+}
+
+i.qmark-d-18, i.qmark-l-18:hover{
+    background-position: -49px -2px;
+    width: 21px;
+}
+
+i.ribbon-d-18, i.ribbon-l-18:hover{
+    background-position: -68px -2px;
+}
+
+i.gear-d-18, i.gear-l-18:hover{
+    background-position: -89px -2px;
+}
+
+i.person-d-18, i.person-l-18:hover{
+    background-position: -112px -2px;
+}
+
+i.arrowright-d-18, i.arrowright-l-18:hover{
+    background-position: -133px -2px;
+}
+
+i.faq-d-18, i.faq-l-18:hover{
+    background-position: -156px -2px;
+    width:21px!important;
+}
+
+i.cycle-d-18, i.cycle-l-18:hover{
+    background-position: -183px -2px;
+}
+
+i.listview-d-18, i.listview-l-18:hover{
+    background-position: -207px -2px;
+}
+
+i.boxview-d-18, i.boxview-l-18:hover{
+    background-position: -231px -2px;
+}
+
+i.titleview-d-18, i.titleview-l-18:hover{
+    background-position: -256px -2px;
+}
+
+i.tileview-d-18, i.tileview-l-18:hover{
+    background-position: -280px -2px;
+}
+
+i.mashview-d-18, i.mashview-l-18:hover{
+    background-position: -305px -2px;
+}
+
+i.defaultview-d-18, i.defaultview-l-18:hover{
+    background-position: -329px -2px;
+}
+
+i.smallboxview-d-18, i.smallboxview-l-18:hover{
+    background-position: -353px -2px;
+}
+
+i.taddtopic-d-18, i.taddtopic-l-18:hover{
+    background-position: -378px -2px;
+}
+
+/* HOVER */
+
+i.clock-l-18, i.clock-d-18:hover{
+    background-position: -1px -26px;
+    width:19px!important;
+}
+
+i.magnify-l-18, i.magnify-d-18:hover{
+    background-position: -26px -27px;
+}
+
+i.qmark-l-18, i.qmark-d-18:hover{
+    background-position: -49px -27px;
+    width: 21px;
+}
+
+i.ribbon-l-18, i.ribbon-d-18:hover{
+    background-position: -68px -27px;
+}
+
+i.gear-l-18, i.gear-d-18:hover{
+    background-position: -89px -27px;
+}
+
+i.person-l-18, i.person-d-18:hover{
+    background-position: -112px -27px;
+}
+
+i.arrowright-l-18, i.arrowright-d-18:hover{
+    background-position: -133px -27px;
+}
+
+i.faq-l-18, i.faq-d-18:hover{
+    background-position: -156px -27px;
+    width:21px!important;
+}
+
+i.cycle-l-18, i.cycle-d-18:hover{
+    background-position: -183px -27px;
+}
+
+i.listview-l-18, i.listview-d-18:hover{
+    background-position: -207px -27px;
+}
+
+i.boxview-l-18, i.boxview-d-18:hover{
+    background-position: -231px -27px;
+}
+
+i.titleview-l-18, i.titleview-d-18:hover{
+    background-position: -256px -27px;
+}
+
+i.tileview-l-18, i.tileview-d-18:hover{
+    background-position: -280px -27px;
+}
+
+i.mashview-l-18, i.mashview-d-18:hover{
+    background-position: -305px -27px;
+}
+
+i.defaultview-l-18, i.defaultview-d-18:hover{
+    background-position: -329px -27px;
+}
+
+i.smallboxview-l-18, i.smallboxview-d-18:hover{
+    background-position: -353px -27px;
+}
+
+i.taddtopic-l-18, i.taddtopic-d-18:hover{
+    background-position: -378px -27px;
+}
+/************************ end Group I */
+/********
+/********
+/********
+/************************ Group II */
+i.greydrip-d-18, i.crop-d-18, i.pencil-d-18, i.trash-d-18, i.write-d-18, i.doublearrowup-d-18, i.doublearrowdown-d-18, i.popup-d-18, i.eye-d-18, i.bubble-d-18, i.thumbsup-d-18, i.envelop-d-18, i.greyredrip-d-18, i.close-d-18, i.blueredrip-d-18, i.blueredrip-dg-18, i.bluedrip-d-18, i.blueanalysis-d-18, i.greyanalysis-d-18, i.greytotldrips-d-18, i.greycross-d-18 , i.turn-d-18 ,               i.greydrip-l-18, i.crop-l-18, i.pencil-l-18, i.trash-l-18, i.write-l-18, i.doublearrowup-l-18, i.doublearrowdown-l-18, i.popup-l-18, i.eye-l-18, i.bubble-l-18, i.thumbsup-l-18, i.envelop-l-18, i.greyredrip-l-18, i.close-l-18, i.blueredrip-l-18, i.bluedrip-l-18, i.blueanalysis-l-18, i.greyanalysis-l-18, i.greytotldrips-l-18, i.greycross-l-18, i.turn-l-18 {
+    display:block;
+    overflow:hidden;
+    background:url("../images/item-icons-18px.png")no-repeat;
+	height: 18px;
+	width: 18px;
+    cursor:pointer;
+}
+
+i.greydrip-d-18, i.greydrip-l-18:hover{
+    background-position: -1px -2px;
+}
+
+i.crop-d-18, i.crop-l-18:hover{
+    background-position: -25px -2px;
+}
+
+i.pencil-d-18, i.pencil-l-18:hover{
+    background-position: -50px -2px;
+}
+
+i.trash-d-18, i.trash-l-18:hover{
+    background-position: -74px -2px;
+}
+
+i.write-d-18, i.write-l-18:hover{
+    background-position: -98px -2px;
+}
+
+i.doublearrowup-d-18, i.doublearrowup-l-18:hover{
+    background-position: -123px -2px;
+	width: 19px !important;
+}
+
+i.doublearrowdown-d-18, i.doublearrowdown-l-18:hover{
+    background-position: -148px -2px;
+	width: 19px !important;
+}
+
+i.popup-d-18, i.popup-l-18:hover{
+    background-position: -173px -2px;
+	width: 22px !important;
+}
+
+i.eye-d-18, i.eye-l-18:hover{
+    background-position: -201px -2px;
+	width: 27px!important;
+}
+
+i.bubble-d-18, i.bubble-l-18:hover{
+    background-position: -234px -2px;
+	width: 21px;
+}
+
+i.thumbsup-d-18, i.thumbsup-l-18:hover{
+    background-position: -260px -2px;
+	width: 20px;
+}
+
+i.envelop-d-18, i.envelop-l-18:hover{
+    background-position: -285px -0px;
+    width: 24px!important;
+    height: 24px;
+}
+
+i.greyredrip-d-18, i.greyredrip-l-18:hover{
+    background-position: -314px -2px;
+	width: 21px!important;
+}
+
+i.close-d-18, i.close-l-18:hover{
+    background-position: -341px -1px;
+	width: 19px;
+}
+
+i.blueredrip-d-18, i.blueredrip-dg-18,  i.blueredrip-l-18:hover{
+    background-position: -365px -2px;
+    width:23px!important;
+}
+
+i.bluedrip-d-18, i.bluedrip-l-18:hover{
+    background-position: -392px -2px;
+}
+
+i.blueanalysis-d-18, i.blueanalysis-l-18:hover{
+    background-position: -414px -2px;
+}
+
+i.greyanalysis-d-18, i.greyanalysis-l-18:hover{
+    background-position: -438px -2px;
+}
+
+i.greytotldrips-d-18, i.greytotldrips-l-18:hover{
+    background-position: -462px -2px;
+    width:23px!important;
+}
+
+i.greycross-d-18, i.greycross-l-18:hover{
+    background-position: -489px -2px;
+}
+
+i.turn-d-18, i.turn-l-18:hover{
+    background-position: -512px -2px;
+	width:27px!important;
+}
+
+/* HOVER */
+
+i.greydrip-l-18, i.greydrip-d-18:hover{
+    background-position: -1px -27px;
+}
+
+i.crop-l-18, i.crop-d-18:hover{
+    background-position: -25px -27px;
+}
+
+i.pencil-l-18, i.pencil-d-18:hover{
+    background-position: -50px -27px;
+}
+
+i.trash-l-18, i.trash-d-18:hover{
+    background-position: -74px -27px;
+}
+
+i.write-l-18, i.write-d-18:hover{
+    background-position: -98px -27px;
+}
+
+i.doublearrowup-l-18, i.doublearrowup-d-18:hover{
+    background-position: -123px -27px;
+	width: 19px !important;
+}
+
+i.doublearrowdown-l-18, i.doublearrowdown-d-18:hover{
+    background-position: -148px -27px;
+	width: 19px !important;
+}
+
+i.popup-l-18, i.popup-d-18:hover{
+    background-position: -173px -27px;
+	width: 22px !important;
+}
+
+i.eye-l-18, i.eye-d-18:hover{
+    background-position: -201px -27px;
+	width: 27px!important;
+}
+
+i.bubble-l-18, i.bubble-d-18:hover{
+    background-position: -234px -27px;
+	width: 21px;
+}
+
+i.thumbsup-l-18, i.thumbsup-d-18:hover{
+    background-position: -260px -27px;
+	width: 20px;
+}
+
+i.envelop-l-18, i.envelop-d-18:hover{
+    background-position: -285px -25px;
+	width: 24px!important;
+    height:24px;
+}
+
+i.greyredrip-l-18, i.blueredrip-dg-18:hover, i.greyredrip-d-18:hover{
+    background-position: -314px -27px;
+	width: 21px;
+}
+
+i.close-l-18, i.close-d-18:hover{
+    background-position: -341px -26px;
+	width: 19px;
+}
+
+i.blueredrip-l-18, i.blueredrip-d-18:hover{
+    background-position: -365px -27px;
+    width:23px!important;
+}
+
+i.bluedrip-l-18, i.bluedrip-d-18:hover{
+    background-position: -392px -27px;
+}
+
+i.blueanalysis-l-18, i.blueanalysis-d-18:hover{
+    background-position: -414px -27px;
+}
+
+i.greyanalysis-l-18, i.greyanalysis-d-18:hover{
+    background-position: -438px -27px;
+}
+
+i.greytotldrips-l-18, i.greytotldrips-d-18:hover{
+    background-position: -462px -27px;
+    width:23px!important;
+}
+
+i.greycross-l-18, i.greycross-d-18:hover{
+    background-position: -489px -27px;
+}
+
+i.turn-l-18, i.turn-d-18:hover{
+    background-position: -512px -27px;
+	width:27px!important;
+}
+/************************ end Group II */
+/************************ end 18px */
+/**********
+/**********
+/************************ start topic drips */
+i.topic_drip_1,i.topic_drip_2,i.topic_drip_3,i.topic_drip_4,i.topic_drip_5,i.topic_drip_6,i.topic_drip_7,i.topic_drip_8,i.topic_drip_9,i.topic_drip_10,i.topic_drip_11,i.topic_drip_12,i.topic_drip_13,i.topic_drip_14,i.topic_drip_15,i.topic_drip_16,i.topic_drip_17,i.topic_drip_18,i.topic_drip_19,i.topic_drip_20,i.topic_drip_21,i.topic_drip_22,i.topic_drip_23,i.topic_drip_24,i.topic_drip_25,i.topic_drip_26,i.topic_drip_27,i.topic_drip_28,
+.topic_drip_tab_1,.topic_drip_tab_2,.topic_drip_tab_3,.topic_drip_tab_4,.topic_drip_tab_5,.topic_drip_tab_6,.topic_drip_tab_7,.topic_drip_tab_8,.topic_drip_tab_9,.topic_drip_tab_10
+{
+    display:block;
+    overflow:hidden;
+    background:url("../images/topic_drips.png")no-repeat;
+	height: 46px;
+	width: 36px;
+}
+
+i.topic_drip_1{
+	background-position: 2px 0;
+}
+i.topic_drip_2, .topic_drip_tab_1{
+	background-position: -35px 0;
+}
+i.topic_drip_3, .topic_drip_tab_2{
+	background-position: -72px 0;
+}
+i.topic_drip_4{
+	background-position: -109px 0;
+}
+i.topic_drip_5{
+	background-position: -145px 0;
+}
+i.topic_drip_6, .topic_drip_tab_3{
+	background-position: -182px 0;
+}
+i.topic_drip_7{
+	background-position: -219px 0;
+}
+i.topic_drip_8{
+	background-position: -255px 0;
+}
+i.topic_drip_9{
+	background-position: -291px 0;
+}
+i.topic_drip_10{
+	background-position: -328px 0;
+}
+i.topic_drip_11, .topic_drip_tab_4{
+	background-position: -365px 0;
+}
+i.topic_drip_12, .topic_drip_tab_5{
+	background-position: -401px 0;
+}
+i.topic_drip_13{
+	background-position: -438px 0;
+}
+i.topic_drip_14{
+	background-position: -474px 0;
+}
+i.topic_drip_15, .topic_drip_tab_6{
+	background-position: -511px 0;
+}
+i.topic_drip_16{
+	background-position: -547px 0;
+}
+i.topic_drip_17{
+	background-position: -584px 0;
+}
+i.topic_drip_18{
+	background-position: -620px 0;
+}
+i.topic_drip_19{
+	background-position: -657px 0;
+}
+i.topic_drip_20, .topic_drip_tab_7{
+	background-position: -694px 0;
+}
+i.topic_drip_21, .topic_drip_tab_8{
+	background-position: -730px 0;
+}
+i.topic_drip_22{
+	background-position: -767px 0;
+}
+i.topic_drip_23{
+	background-position: -803px 0;
+}
+i.topic_drip_24, .topic_drip_tab_9{
+	background-position: -840px 0;
+}
+i.topic_drip_25{
+	background-position: -877px 0;
+}
+i.topic_drip_26, .topic_drip_tab_10{
+	background-position: -913px 0;
+}
+i.topic_drip_27{
+	background-position: -950px 0;
+}
+i.topic_drip_28{
+	background-position: -986px 0;
+}
+/************************ end topic drips */
+/******************************************/
+/******************************************/
+
+
+/*************************start of extra icons*/
+
+
+i.bluewhitedoubledrip-d-30, i.bluewhitedoubledrip-l-30, i.drip-d-30, i.drip-l-30, i.move-d-30, i.move-l-30, i.doublearrowleft-d-36, i.doublearrowleft-l-36, i.doublearrowright-d-36, i.doublearrowright-l-36, i.bluedarkmove-l-30, i.bluedarkmove-d-30, i.bluedarkdoubledrip-d-30, i.bluedarkdoubledrip-l-30, i.roundclose-l-30, i.roundclose-d-30, i.arrowleft-d-30, i.arrowleft-l-30,i.arrowright-d-30, i.arrowright-l-30{
+	display:block;
+    overflow:hidden;
+    background:url("../images/navicon-dir-med.png")no-repeat;
+	height: 31px;
+	width: 30px;
+}
+
+i.bluewhitedoubledrip-d-30, i.bluewhitedoubledrip-l-30:hover{
+	background-position: 0 0;
+}
+i.drip-d-30, i.drip-l-30:hover{
+	background-position: -37px 0;
+}
+i.move-d-30, i.move-l-30:hover{
+	background-position: -76px 0;
+}
+i.doublearrowleft-d-36, i.doublearrowleft-l-36:hover{
+	background-position: -116px 0;
+    width: 36px;
+}
+i.doublearrowright-d-36, i.doublearrowright-l-36:hover{
+	background-position: -164px 0;
+    width: 36px;
+}
+i.bluedarkmove-d-30, i.bluedarkmove-l-30:hover{
+	background-position: -211px 0;
+}
+i.bluedarkdoubledrip-d-30, i.bluedarkdoubledrip-l-30:hover{
+	background-position: -250px 0;
+    width: 32px;
+}
+i.roundclose-d-30, i.roundclose-l-30:hover{
+	background-position: -291px 0;
+}
+i.arrowleft-d-30, i.arrowleft-l-30:hover{
+	background-position: -418px 0;
+}
+i.arrowright-d-30, i.arrowright-l-30:hover{
+	background-position: -444px 0;
+}
+
+/* light colors */
+i.bluewhitedoubledrip-l-30, i.bluewhitedoubledrip-d-30:hover{
+	background-position: 0 -39px;
+}
+
+i.drip-l-30, i.drip-d-30:hover{
+	background-position: -37px -39px;
+}
+i.move-l-30, i.move-d-30:hover{
+	background-position: -76px -39px;
+}
+i.doublearrowleft-l-36, i.doublearrowleft-d-36:hover{
+	background-position: -116px -39px;
+    width: 36px;
+}
+i.doublearrowright-l-36, i.doublearrowright-d-36:hover{
+	background-position: -164px -39px;
+    width: 36px;
+}
+i.bluedarkmove-l-30, i.bluedarkmove-d-30:hover{
+	background-position: -211px -39px;
+}
+i.bluedarkdoubledrip-l-30, i.bluedarkdoubledrip-d-30:hover{
+	background-position: -250px -39px;
+    width: 32px;
+}
+i.roundclose-l-30, i.roundclose-d-30:hover{
+	background-position: -291px -39px;
+}
+
+i.arrowleft-l-30, i.arrowleft-d-30:hover{
+	background-position: -418px -39px;
+}
+i.arrowright-l-30, i.arrowright-d-30:hover{
+	background-position: -444px -39px;
+}
+
+/************* key Icons *************/
+i.key-d-18, i.key-l-18{
+	display:block;
+    overflow:hidden;
+    background:url("../images/key-18.png")no-repeat;
+	height: 18px;
+	width: 18px;
+}
+
+i.key-d-18, i.key-l-18:hover {
+	background-position: 0px 0px;
+}
+
+i.key-l-18, i.key-d-18:hover {
+	background-position: 0px -23px;
+}
+/************* key Icons *************/
+i.key_trash-l-18{
+	display:block;
+	overflow:hidden;
+	width:18px;
+	height:18px;
+}
+
+i.key_trash-l-18 i.trash-d-18{
+	display:none;
+}
+
+i.key_trash-l-18:hover i.trash-d-18{
+	display:block;
+}
+
+i.key_trash-l-18:hover i.key-l-18{
+	display:none;
+}
+
+i.clock_trash-l-18 {
+	display:block;
+	overflow:hidden;
+	width:18px;
+	height:18px;
+}
+i.clock_trash-l-18 i.trash-d-18{
+	display:none;
+}
+
+i.clock_trash-l-18:hover i.trash-d-18{
+	display:block;
+}
+
+i.clock_trash-l-18:hover i.clock-l-18{
+	display:none;
+}
+
+i.expand_inputs-up-s,i.expand_inputs-down-s{
+	background: url(../images/expand_input.png) no-repeat;
+	width: 9px;
+	height: 6px;
+	display: block;
+	overflow: hidden;
+}
+
+i.expand_inputs-up-s, i.expand_inputs-down-s.up{
+	background-position: -9px 0!important;
+}
+
+
+
+/* arrows */
+
+.down_arr_s , .up_arr_s{
+	background: url("http://www.drippost.com/wp-content/themes/linkedpost/images/arrows.png") no-repeat;
+	width: 100%;
+	height: 8px;
+	display: block;
+}
+
+.down_arr_s {
+	background-position :  center -103px;
+}
+
+.up_arr_s{
+	background-position : center -125px;
+}
+
+/* END arrows */
+
+.view_list-l-40, .view_section-l-40, .view_list-d-40, .view_section-d-40{
+	background: url("http://www.drippost.com/wp-content/themes/linkedpost/images/views-40.png") no-repeat;
+	width: 40px;
+	height: 40px;
+	display: block;
+}
+
+.view_list-l-40, .view_list-d-40:hover, .view_list-d-40.active{
+	background-position :  0px 0px;
+}
+
+.view_list-d-40, .view_list-l-40:hover, .view_list-l-40.active{
+	background-position :  0px -44px;
+}
+
+.view_section-l-40, .view_section-d-40:hover, .view_section-d-40.active{
+	background-position :  -48px -1px;
+}
+
+.view_section-d-40, .view_section-l-40:hover, .view_section-l-40.active{
+	background-position :  -48px -44px;
+}
+
+.close_splash-20{
+	background: url("http://www.drippost.com/wp-content/themes/linkedpost/images/close_splash.png") no-repeat;
+	width: 20px;
+	height: 20px;
+	display: block;
+	cursor: pointer;
+	opacity: 0.3;
+}
+.close_splash-20:hover{
+	opacity:1;
+}

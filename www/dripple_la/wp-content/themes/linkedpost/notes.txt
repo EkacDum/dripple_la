@@ -1,0 +1,44 @@
+        		<!-- link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/ico.css"/>
+		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/new_icons.css"/>
+		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/content.css"/>
+        <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/views.css"/>
+		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/reset.css"/>
+		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/custom_select.css"/>
+        
+        <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/jquery.mCustomScrollbar.css"/ -->
+		
+        <!-- link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/jquery-ui-1.10.3/themes/base/jquery.ui.all.css" -->
+		
+		
+		
+		<!-- script src="<?php bloginfo('template_url'); ?>/jquery-ui-1.10.3/ui/minified/jquery.ui.core.min.js"></script>
+        <script src="<?php bloginfo('template_url'); ?>/jquery-ui-1.10.3/ui/minified/jquery.ui.widget.min.js"></script>
+        <script src="<?php bloginfo('template_url'); ?>/jquery-ui-1.10.3/ui/minified/jquery.ui.mouse.min.js"></script>
+        <script src="<?php bloginfo('template_url'); ?>/jquery-ui-1.10.3/ui/minified/jquery.ui.sortable.min.js"></script>
+		<script src="<?php bloginfo('template_url'); ?>/jquery-ui-1.10.3/ui/minified/jquery.ui.draggable.min.js"></script>
+		<script src="<?php bloginfo('template_url'); ?>/jquery-ui-1.10.3/ui/minified/jquery.ui.droppable.min.js"></script>
+		<script src="<?php bloginfo('template_url'); ?>/jquery-ui-1.10.3/ui/minified/jquery.ui.resizable.min.js"></script -->
+		<!-- script src="<?php bloginfo('template_url'); ?>/js/jquery.mCustomScrollbar.concat.min.js"></script -->
+		<!-- script src="<?php bloginfo( 'template_url' ); ?>/js/jquery.flippy.min.js" type="text/javascript"></script -->
+		<!-- script src="<?php bloginfo('template_url'); ?>/js/jquery-ui-1.10.3.custom.min.js"></script -->
+		<!-- script src="<?php bloginfo( 'template_url' ); ?>/js/json2.js" type="text/javascript"></script -->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		sidebar
+		<li class="imglogosubmit twttrov"><?php echo do_shortcode('[wpsr_socialbts services="twitter" sprites=2]');?></li>
+                    <li class="imglogosubmit fbov"><?php echo do_shortcode('[wpsr_socialbts services="facebook" sprites=2]');?></li>
+                    <li class="imglogosubmit gpov"><?php echo do_shortcode('[wpsr_socialbts services="googleplus" sprites=2]');?></li>
+                    <li class="imglogosubmit diggov"><?php echo do_shortcode('[wpsr_socialbts services="digg" sprites=2]');?></li>
+                    <li class="imglogosubmit liov"><?php echo do_shortcode('[wpsr_socialbts services="linkedin" sprites=2]');?></li>
+                    <li class="imglogosubmit suov"><?php echo do_shortcode('[wpsr_socialbts services="stumbleupon" sprites=2]');?></li>

@@ -1,0 +1,1978 @@
+stdClass Object
+(
+    [statuses] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => en
+                        )
+
+                    [created_at] => Fri Jul 26 06:58:06 +0000 2013
+                    [id] => 360655247623983109
+                    [id_str] => 360655247623983109
+                    [text] => @Puerto_Italiano grandfather your president Obama is a muslim, are Obama descended from the shit ^_^
+                    [source] => web
+                    [truncated] => 
+                    [in_reply_to_status_id] => 360652387687464964
+                    [in_reply_to_status_id_str] => 360652387687464964
+                    [in_reply_to_user_id] => 1426811455
+                    [in_reply_to_user_id_str] => 1426811455
+                    [in_reply_to_screen_name] => Puerto_Italiano
+                    [user] => stdClass Object
+                        (
+                            [id] => 1557115560
+                            [id_str] => 1557115560
+                            [name] => صالح العامر
+                            [screen_name] => imSal3h
+                            [location] => ممر عبور
+                            [description] => ‏يالله ثبتني على ملة الأطهار ، ملة رسول الله ونهج الصحابه ، نهج تربينا على حبه وحنا صغار ، نطلب رضى الغفار ونخشى من حسابه
+                            [url] => http://t.co/zU8SiL8mjz
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/zU8SiL8mjz
+                                                            [expanded_url] => http://goo.gl/UkrMwu
+                                                            [display_url] => goo.gl/UkrMwu
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 22
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 94
+                            [friends_count] => 42
+                            [listed_count] => 0
+                            [created_at] => Sun Jun 30 03:52:25 +0000 2013
+                            [favourites_count] => 7
+                            [utc_offset] => 10800
+                            [time_zone] => Riyadh
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 45
+                            [lang] => ar
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => 8F808F
+                            [profile_background_image_url] => http://a0.twimg.com/images/themes/theme16/bg.gif
+                            [profile_background_image_url_https] => https://si0.twimg.com/images/themes/theme16/bg.gif
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://a0.twimg.com/profile_images/378800000174958492/107cceebfd90c68d1693a987a22a3e20_normal.jpeg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/378800000174958492/107cceebfd90c68d1693a987a22a3e20_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/1557115560/1374562239
+                            [profile_link_color] => 000000
+                            [profile_sidebar_border_color] => 000000
+                            [profile_sidebar_fill_color] => 000000
+                            [profile_text_color] => 000000
+                            [profile_use_background_image] => 
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => Puerto_Italiano
+                                            [name] => Gianni
+                                            [id] => 1426811455
+                                            [id_str] => 1426811455
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 16
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => en
+                )
+
+            [1] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => en
+                        )
+
+                    [created_at] => Fri Jul 26 06:58:05 +0000 2013
+                    [id] => 360655245807853568
+                    [id_str] => 360655245807853568
+                    [text] => RT @FoxNews: Obama salutes Muslim Americans at White House Ramadan dinner http://t.co/doMJgwlRZE via @foxnewspolitics
+                    [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 756618085
+                            [id_str] => 756618085
+                            [name] => ✨ᎠƎИᎥƧƎ   ❡Ꭵℓᗰ⚙ЯƎ ✨ 
+                            [screen_name] => GilmoreDenise
+                            [location] => ☀ Sunny Califonia ☀
+                            [description] => ✨Apaches Barber Shop✨
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 10
+                            [friends_count] => 193
+                            [listed_count] => 0
+                            [created_at] => Tue Aug 14 06:35:15 +0000 2012
+                            [favourites_count] => 769
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 1124
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => C0DEED
+                            [profile_background_image_url] => http://a0.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_image_url_https] => https://si0.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://a0.twimg.com/profile_images/2506525681/image_normal.jpg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/2506525681/image_normal.jpg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/756618085/1348118278
+                            [profile_link_color] => 0084B4
+                            [profile_sidebar_border_color] => C0DEED
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 1
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweeted_status] => stdClass Object
+                        (
+                            [metadata] => stdClass Object
+                                (
+                                    [result_type] => recent
+                                    [iso_language_code] => en
+                                )
+
+                            [created_at] => Fri Jul 26 02:57:47 +0000 2013
+                            [id] => 360594771477139458
+                            [id_str] => 360594771477139458
+                            [text] => Obama salutes Muslim Americans at White House Ramadan dinner http://t.co/doMJgwlRZE via @foxnewspolitics
+                            [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
+                            [truncated] => 
+                            [in_reply_to_status_id] => 
+                            [in_reply_to_status_id_str] => 
+                            [in_reply_to_user_id] => 
+                            [in_reply_to_user_id_str] => 
+                            [in_reply_to_screen_name] => 
+                            [user] => stdClass Object
+                                (
+                                    [id] => 1367531
+                                    [id_str] => 1367531
+                                    [name] => Fox News
+                                    [screen_name] => FoxNews
+                                    [location] => U.S.A.
+                                    [description] => Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.
+                                    [url] => http://t.co/ZYG58XZtAC
+                                    [entities] => stdClass Object
+                                        (
+                                            [url] => stdClass Object
+                                                (
+                                                    [urls] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [url] => http://t.co/ZYG58XZtAC
+                                                                    [expanded_url] => http://www.foxnews.com
+                                                                    [display_url] => foxnews.com
+                                                                    [indices] => Array
+                                                                        (
+                                                                            [0] => 0
+                                                                            [1] => 22
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [description] => stdClass Object
+                                                (
+                                                    [urls] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [protected] => 
+                                    [followers_count] => 2937050
+                                    [friends_count] => 299
+                                    [listed_count] => 36105
+                                    [created_at] => Sat Mar 17 19:01:26 +0000 2007
+                                    [favourites_count] => 10
+                                    [utc_offset] => -14400
+                                    [time_zone] => Eastern Time (US & Canada)
+                                    [geo_enabled] => 
+                                    [verified] => 1
+                                    [statuses_count] => 161099
+                                    [lang] => en
+                                    [contributors_enabled] => 
+                                    [is_translator] => 
+                                    [profile_background_color] => 0E2331
+                                    [profile_background_image_url] => http://a0.twimg.com/profile_background_images/414488415/xyz123abc.jpg
+                                    [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/414488415/xyz123abc.jpg
+                                    [profile_background_tile] => 
+                                    [profile_image_url] => http://a0.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png
+                                    [profile_image_url_https] => https://si0.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png
+                                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1367531/1348609271
+                                    [profile_link_color] => 183A52
+                                    [profile_sidebar_border_color] => FFFFFF
+                                    [profile_sidebar_fill_color] => F4F4F4
+                                    [profile_text_color] => 000000
+                                    [profile_use_background_image] => 1
+                                    [default_profile] => 
+                                    [default_profile_image] => 
+                                    [following] => 
+                                    [follow_request_sent] => 
+                                    [notifications] => 
+                                )
+
+                            [geo] => 
+                            [coordinates] => 
+                            [place] => 
+                            [contributors] => 
+                            [retweet_count] => 118
+                            [favorite_count] => 29
+                            [entities] => stdClass Object
+                                (
+                                    [hashtags] => Array
+                                        (
+                                        )
+
+                                    [symbols] => Array
+                                        (
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [url] => http://t.co/doMJgwlRZE
+                                                    [expanded_url] => http://fxn.ws/13halGW
+                                                    [display_url] => fxn.ws/13halGW
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 61
+                                                            [1] => 83
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [user_mentions] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [screen_name] => foxnewspolitics
+                                                    [name] => Fox News Politics
+                                                    [id] => 16032925
+                                                    [id_str] => 16032925
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 88
+                                                            [1] => 104
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [favorited] => 
+                            [retweeted] => 
+                            [possibly_sensitive] => 
+                            [lang] => en
+                        )
+
+                    [retweet_count] => 118
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://t.co/doMJgwlRZE
+                                            [expanded_url] => http://fxn.ws/13halGW
+                                            [display_url] => fxn.ws/13halGW
+                                            [indices] => Array
+                                                (
+                                                    [0] => 74
+                                                    [1] => 96
+                                                )
+
+                                        )
+
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => FoxNews
+                                            [name] => Fox News
+                                            [id] => 1367531
+                                            [id_str] => 1367531
+                                            [indices] => Array
+                                                (
+                                                    [0] => 3
+                                                    [1] => 11
+                                                )
+
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [screen_name] => foxnewspolitics
+                                            [name] => Fox News Politics
+                                            [id] => 16032925
+                                            [id_str] => 16032925
+                                            [indices] => Array
+                                                (
+                                                    [0] => 101
+                                                    [1] => 117
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => en
+                )
+
+            [2] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => en
+                        )
+
+                    [created_at] => Fri Jul 26 06:58:05 +0000 2013
+                    [id] => 360655244088188930
+                    [id_str] => 360655244088188930
+                    [text] => RT @niallshitt: ME MEETING NIALL IS LIKE ARNOLD SWARZCHENEGGER MEETING OBAMA DO YOU UNDERSTAND MY COMPARISON
+                    [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 624523549
+                            [id_str] => 624523549
+                            [name] => ♡HARRY PLEASE♡
+                            [screen_name] => marvel_monster
+                            [location] => ☼ texas wut wut ☼
+                            [description] => im niallofficially depressed bc my idols wont notice me | ☯/5 | ♡/4 | austin mahone can u love me bc i love u
+                            [url] => http://t.co/H1JHIMrAEs
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/H1JHIMrAEs
+                                                            [expanded_url] => http://Instagram.com/_marveldfb
+                                                            [display_url] => Instagram.com/_marveldfb
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 22
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 507
+                            [friends_count] => 347
+                            [listed_count] => 3
+                            [created_at] => Mon Jul 02 09:29:26 +0000 2012
+                            [favourites_count] => 880
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 12423
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => B2DFDA
+                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/688141317/64548c5bd1c0823a6cab1879420ffd74.jpeg
+                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/688141317/64548c5bd1c0823a6cab1879420ffd74.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://a0.twimg.com/profile_images/378800000179946545/2e3a8794ef69529a861de54f265d0dff_normal.jpeg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/378800000179946545/2e3a8794ef69529a861de54f265d0dff_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/624523549/1374310154
+                            [profile_link_color] => 93A644
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => FFFFFF
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweeted_status] => stdClass Object
+                        (
+                            [metadata] => stdClass Object
+                                (
+                                    [result_type] => recent
+                                    [iso_language_code] => en
+                                )
+
+                            [created_at] => Fri Jul 26 06:54:31 +0000 2013
+                            [id] => 360654344741326850
+                            [id_str] => 360654344741326850
+                            [text] => ME MEETING NIALL IS LIKE ARNOLD SWARZCHENEGGER MEETING OBAMA DO YOU UNDERSTAND MY COMPARISON
+                            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+                            [truncated] => 
+                            [in_reply_to_status_id] => 
+                            [in_reply_to_status_id_str] => 
+                            [in_reply_to_user_id] => 
+                            [in_reply_to_user_id_str] => 
+                            [in_reply_to_screen_name] => 
+                            [user] => stdClass Object
+                                (
+                                    [id] => 626977996
+                                    [id_str] => 626977996
+                                    [name] => ☼ 9 DAYS ☼
+                                    [screen_name] => niallshitt
+                                    [location] => michael/4
+                                    [description] => ♡ he said can i take you home with me, i said its always been my wildest dream ♡
+                                    [url] => http://t.co/OGmQEnywCU
+                                    [entities] => stdClass Object
+                                        (
+                                            [url] => stdClass Object
+                                                (
+                                                    [urls] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [url] => http://t.co/OGmQEnywCU
+                                                                    [expanded_url] => http://niall.com
+                                                                    [display_url] => niall.com
+                                                                    [indices] => Array
+                                                                        (
+                                                                            [0] => 0
+                                                                            [1] => 22
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [description] => stdClass Object
+                                                (
+                                                    [urls] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [protected] => 
+                                    [followers_count] => 2252
+                                    [friends_count] => 263
+                                    [listed_count] => 6
+                                    [created_at] => Thu Jul 05 02:21:41 +0000 2012
+                                    [favourites_count] => 492
+                                    [utc_offset] => 
+                                    [time_zone] => 
+                                    [geo_enabled] => 
+                                    [verified] => 
+                                    [statuses_count] => 33423
+                                    [lang] => en
+                                    [contributors_enabled] => 
+                                    [is_translator] => 
+                                    [profile_background_color] => C0DEED
+                                    [profile_background_image_url] => http://a0.twimg.com/profile_background_images/378800000007817972/80e02ac843714d9fc6ce6fb51b875dff.jpeg
+                                    [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/378800000007817972/80e02ac843714d9fc6ce6fb51b875dff.jpeg
+                                    [profile_background_tile] => 1
+                                    [profile_image_url] => http://a0.twimg.com/profile_images/378800000090118242/f873f65001c64e3e3f3ee3672cc3481c_normal.jpeg
+                                    [profile_image_url_https] => https://si0.twimg.com/profile_images/378800000090118242/f873f65001c64e3e3f3ee3672cc3481c_normal.jpeg
+                                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/626977996/1374397131
+                                    [profile_link_color] => 0084B4
+                                    [profile_sidebar_border_color] => FFFFFF
+                                    [profile_sidebar_fill_color] => DDEEF6
+                                    [profile_text_color] => 333333
+                                    [profile_use_background_image] => 1
+                                    [default_profile] => 
+                                    [default_profile_image] => 
+                                    [following] => 
+                                    [follow_request_sent] => 
+                                    [notifications] => 
+                                )
+
+                            [geo] => 
+                            [coordinates] => 
+                            [place] => 
+                            [contributors] => 
+                            [retweet_count] => 2
+                            [favorite_count] => 1
+                            [entities] => stdClass Object
+                                (
+                                    [hashtags] => Array
+                                        (
+                                        )
+
+                                    [symbols] => Array
+                                        (
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                    [user_mentions] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [favorited] => 
+                            [retweeted] => 
+                            [lang] => en
+                        )
+
+                    [retweet_count] => 2
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => niallshitt
+                                            [name] => ☼ 9 DAYS ☼
+                                            [id] => 626977996
+                                            [id_str] => 626977996
+                                            [indices] => Array
+                                                (
+                                                    [0] => 3
+                                                    [1] => 14
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => en
+                )
+
+            [3] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => pt
+                        )
+
+                    [created_at] => Fri Jul 26 06:58:05 +0000 2013
+                    [id] => 360655242909597696
+                    [id_str] => 360655242909597696
+                    [text] => RT @HitFollowsJp: 【#RETWEET】#TFBJP #TFB #SigoImediatamente #Bancodeseguidores #SiguemeYteSigo #uniaodotwittersegueeusigodevolta #HITFOLLOWS…
+                    [source] => <a href="http://tweetadder.com" rel="nofollow">TweetAdder v4</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 1489171394
+                            [id_str] => 1489171394
+                            [name] => ██▓FOLLOW ME▓██
+                            [screen_name] => Blamez_Obama
+                            [location] => The Poor House
+                            [description] => Just wanted to thank you, Obama. Your vision has really helped me understand the Suck.
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 517
+                            [friends_count] => 260
+                            [listed_count] => 1
+                            [created_at] => Fri Jun 07 01:08:43 +0000 2013
+                            [favourites_count] => 0
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 3654
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => FF0303
+                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/378800000012010199/1b8975c0903aa08a3fc1ae945967a8eb.jpeg
+                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/378800000012010199/1b8975c0903aa08a3fc1ae945967a8eb.jpeg
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://a0.twimg.com/profile_images/378800000084704095/bb0397ec55baf25690e47eeb076b7782_normal.jpeg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/378800000084704095/bb0397ec55baf25690e47eeb076b7782_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/1489171394/1372605956
+                            [profile_link_color] => 0084B4
+                            [profile_sidebar_border_color] => 000000
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweeted_status] => stdClass Object
+                        (
+                            [metadata] => stdClass Object
+                                (
+                                    [result_type] => recent
+                                    [iso_language_code] => pt
+                                )
+
+                            [created_at] => Fri Jul 26 06:56:04 +0000 2013
+                            [id] => 360654736724201472
+                            [id_str] => 360654736724201472
+                            [text] => 【#RETWEET】#TFBJP #TFB #SigoImediatamente #Bancodeseguidores #SiguemeYteSigo #uniaodotwittersegueeusigodevolta #HITFOLLOWSTEAM  15.56
+                            [source] => <a href="https://twitter.com/HitFollowsJp" rel="nofollow">hitfollowsjpbot</a>
+                            [truncated] => 
+                            [in_reply_to_status_id] => 
+                            [in_reply_to_status_id_str] => 
+                            [in_reply_to_user_id] => 
+                            [in_reply_to_user_id_str] => 
+                            [in_reply_to_screen_name] => 
+                            [user] => stdClass Object
+                                (
+                                    [id] => 755368129
+                                    [id_str] => 755368129
+                                    [name] => ＨＩＴＦＯＬＬＯＷＳＴＥＡＭ
+                                    [screen_name] => HitFollowsJp
+                                    [location] => Osaka - Japan ·
+                                    [description] => #TFBJP #TMW #R_Family #TEAMFOLLOWBACK #TMW #90sBabyFollowTrain 
+ #HitFollowsTeam ►@teamfairyrose ＠tfbjp◄ ►#TEAMFAIRYROSE ◄
+                                    [url] => http://t.co/8oE14Pq0ZZ
+                                    [entities] => stdClass Object
+                                        (
+                                            [url] => stdClass Object
+                                                (
+                                                    [urls] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [url] => http://t.co/8oE14Pq0ZZ
+                                                                    [expanded_url] => http://teamfairyrosejpmex.blogspot.com/
+                                                                    [display_url] => teamfairyrosejpmex.blogspot.com
+                                                                    [indices] => Array
+                                                                        (
+                                                                            [0] => 0
+                                                                            [1] => 22
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [description] => stdClass Object
+                                                (
+                                                    [urls] => Array
+                                                        (
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [protected] => 
+                                    [followers_count] => 242173
+                                    [friends_count] => 226264
+                                    [listed_count] => 835
+                                    [created_at] => Mon Aug 13 15:46:25 +0000 2012
+                                    [favourites_count] => 2158
+                                    [utc_offset] => 32400
+                                    [time_zone] => Osaka
+                                    [geo_enabled] => 
+                                    [verified] => 
+                                    [statuses_count] => 154948
+                                    [lang] => ja
+                                    [contributors_enabled] => 
+                                    [is_translator] => 
+                                    [profile_background_color] => 000000
+                                    [profile_background_image_url] => http://a0.twimg.com/profile_background_images/810030135/8e2ba12871a58ef270dbc17e61b475c5.png
+                                    [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/810030135/8e2ba12871a58ef270dbc17e61b475c5.png
+                                    [profile_background_tile] => 
+                                    [profile_image_url] => http://a0.twimg.com/profile_images/3038712758/376d6e7caba1bef6a9a67da8a970da35_normal.jpeg
+                                    [profile_image_url_https] => https://si0.twimg.com/profile_images/3038712758/376d6e7caba1bef6a9a67da8a970da35_normal.jpeg
+                                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/755368129/1362819031
+                                    [profile_link_color] => F70A1D
+                                    [profile_sidebar_border_color] => 000000
+                                    [profile_sidebar_fill_color] => DDEEF6
+                                    [profile_text_color] => 333333
+                                    [profile_use_background_image] => 1
+                                    [default_profile] => 
+                                    [default_profile_image] => 
+                                    [following] => 
+                                    [follow_request_sent] => 
+                                    [notifications] => 
+                                )
+
+                            [geo] => 
+                            [coordinates] => 
+                            [place] => 
+                            [contributors] => 
+                            [retweet_count] => 90
+                            [favorite_count] => 3
+                            [entities] => stdClass Object
+                                (
+                                    [hashtags] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [text] => RETWEET
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 1
+                                                            [1] => 9
+                                                        )
+
+                                                )
+
+                                            [1] => stdClass Object
+                                                (
+                                                    [text] => TFBJP
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 10
+                                                            [1] => 16
+                                                        )
+
+                                                )
+
+                                            [2] => stdClass Object
+                                                (
+                                                    [text] => TFB
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 17
+                                                            [1] => 21
+                                                        )
+
+                                                )
+
+                                            [3] => stdClass Object
+                                                (
+                                                    [text] => SigoImediatamente
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 22
+                                                            [1] => 40
+                                                        )
+
+                                                )
+
+                                            [4] => stdClass Object
+                                                (
+                                                    [text] => Bancodeseguidores
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 41
+                                                            [1] => 59
+                                                        )
+
+                                                )
+
+                                            [5] => stdClass Object
+                                                (
+                                                    [text] => SiguemeYteSigo
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 60
+                                                            [1] => 75
+                                                        )
+
+                                                )
+
+                                            [6] => stdClass Object
+                                                (
+                                                    [text] => uniaodotwittersegueeusigodevolta
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 76
+                                                            [1] => 109
+                                                        )
+
+                                                )
+
+                                            [7] => stdClass Object
+                                                (
+                                                    [text] => HITFOLLOWSTEAM
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 110
+                                                            [1] => 125
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [symbols] => Array
+                                        (
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                    [user_mentions] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [favorited] => 
+                            [retweeted] => 
+                            [lang] => pt
+                        )
+
+                    [retweet_count] => 90
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [text] => RETWEET
+                                            [indices] => Array
+                                                (
+                                                    [0] => 19
+                                                    [1] => 27
+                                                )
+
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [text] => TFBJP
+                                            [indices] => Array
+                                                (
+                                                    [0] => 28
+                                                    [1] => 34
+                                                )
+
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [text] => TFB
+                                            [indices] => Array
+                                                (
+                                                    [0] => 35
+                                                    [1] => 39
+                                                )
+
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [text] => SigoImediatamente
+                                            [indices] => Array
+                                                (
+                                                    [0] => 40
+                                                    [1] => 58
+                                                )
+
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [text] => Bancodeseguidores
+                                            [indices] => Array
+                                                (
+                                                    [0] => 59
+                                                    [1] => 77
+                                                )
+
+                                        )
+
+                                    [5] => stdClass Object
+                                        (
+                                            [text] => SiguemeYteSigo
+                                            [indices] => Array
+                                                (
+                                                    [0] => 78
+                                                    [1] => 93
+                                                )
+
+                                        )
+
+                                    [6] => stdClass Object
+                                        (
+                                            [text] => uniaodotwittersegueeusigodevolta
+                                            [indices] => Array
+                                                (
+                                                    [0] => 94
+                                                    [1] => 127
+                                                )
+
+                                        )
+
+                                    [7] => stdClass Object
+                                        (
+                                            [text] => HITFOLLOWS
+                                            [indices] => Array
+                                                (
+                                                    [0] => 128
+                                                    [1] => 139
+                                                )
+
+                                        )
+
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => HitFollowsJp
+                                            [name] => ＨＩＴＦＯＬＬＯＷＳＴＥＡＭ
+                                            [id] => 755368129
+                                            [id_str] => 755368129
+                                            [indices] => Array
+                                                (
+                                                    [0] => 3
+                                                    [1] => 16
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => pt
+                )
+
+            [4] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => en
+                        )
+
+                    [created_at] => Fri Jul 26 06:58:03 +0000 2013
+                    [id] => 360655235926069250
+                    [id_str] => 360655235926069250
+                    [text] => You like obama? Ok name 4 of his albums
+                    [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 193368036
+                            [id_str] => 193368036
+                            [name] => ☠☠
+                            [screen_name] => PrinceszPikachu
+                            [location] => Raichu ♡
+                            [description] => The heart may be weak, and sometimes, it may even give in; but I’ve learned… that deep down there’s a light that never goes out!
+                            [url] => http://t.co/wPmCWOIPk3
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/wPmCWOIPk3
+                                                            [expanded_url] => http://www.youtube.com/PrinceszPikachu?ref=tn_tnmn
+                                                            [display_url] => youtube.com/PrinceszPikach…
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 22
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 628
+                            [friends_count] => 98
+                            [listed_count] => 5
+                            [created_at] => Tue Sep 21 17:05:57 +0000 2010
+                            [favourites_count] => 6560
+                            [utc_offset] => -25200
+                            [time_zone] => Pacific Time (US & Canada)
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 63055
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => 000000
+                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/378800000010547059/e4669366eb64ab4569a9b9af6450ab9d.jpeg
+                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/378800000010547059/e4669366eb64ab4569a9b9af6450ab9d.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://a0.twimg.com/profile_images/378800000160381473/9922394b3fe098d9d86aacf8387802bf_normal.jpeg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/378800000160381473/9922394b3fe098d9d86aacf8387802bf_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/193368036/1374563016
+                            [profile_link_color] => F274AD
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => FABBDF
+                            [profile_text_color] => 9964DE
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => en
+                )
+
+            [5] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => ja
+                        )
+
+                    [created_at] => Fri Jul 26 06:58:02 +0000 2013
+                    [id] => 360655233518546944
+                    [id_str] => 360655233518546944
+                    [text] => @frascowareta ( ´∀｀)人(´∀｀ ) 虎徹さんの身体触りたいでする。余計な脂肪とかついてないんだろうなって……
+                    [source] => <a href="http://janetter.net/" rel="nofollow">Janetter</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 360654780823126016
+                    [in_reply_to_status_id_str] => 360654780823126016
+                    [in_reply_to_user_id] => 341104169
+                    [in_reply_to_user_id_str] => 341104169
+                    [in_reply_to_screen_name] => frascowareta
+                    [user] => stdClass Object
+                        (
+                            [id] => 564703144
+                            [id_str] => 564703144
+                            [name] => オバマ@ねむ
+                            [screen_name] => obama_nem
+                            [location] => 江戸川くんの下駄箱
+                            [description] => This happened because of you. Thank you.　実在の人物とは一切関わり無し、またbotでもありません。腐。成人済。虎廃。兎虎空虎エビマヨ。江戸川。同題書いたり絵を描いたりイベント出たりしてます。同類と感じられない場合はブロックしてます。ごめんなさい。
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 244
+                            [friends_count] => 340
+                            [listed_count] => 2
+                            [created_at] => Fri Apr 27 15:32:15 +0000 2012
+                            [favourites_count] => 2883
+                            [utc_offset] => 32400
+                            [time_zone] => Irkutsk
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 71855
+                            [lang] => ja
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => C0DEED
+                            [profile_background_image_url] => http://a0.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_image_url_https] => https://si0.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://a0.twimg.com/profile_images/378800000165577377/e64025ede17a7fcdd1533e27ef3b304f_normal.jpeg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/378800000165577377/e64025ede17a7fcdd1533e27ef3b304f_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/564703144/1369094073
+                            [profile_link_color] => 0084B4
+                            [profile_sidebar_border_color] => C0DEED
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 1
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => frascowareta
+                                            [name] => フラスコ
+                                            [id] => 341104169
+                                            [id_str] => 341104169
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 13
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => ja
+                )
+
+            [6] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => en
+                        )
+
+                    [created_at] => Fri Jul 26 06:58:02 +0000 2013
+                    [id] => 360655231056486401
+                    [id_str] => 360655231056486401
+                    [text] => @guntotindemocra NO he did not... dems took control in 2001...  anyway.  Obama has an agenda it is playing out right now. Am not
+                    [source] => web
+                    [truncated] => 
+                    [in_reply_to_status_id] => 360653889818730496
+                    [in_reply_to_status_id_str] => 360653889818730496
+                    [in_reply_to_user_id] => 533781390
+                    [in_reply_to_user_id_str] => 533781390
+                    [in_reply_to_screen_name] => guntotindemocra
+                    [user] => stdClass Object
+                        (
+                            [id] => 32144891
+                            [id_str] => 32144891
+                            [name] => Laurie H
+                            [screen_name] => LLH713
+                            [location] => Dallas,Texas
+                            [description] => Want things sugarcoated? Go to the candy store. Want politically correct? Watch the News. Don't like what you see here? Mount up and ride on. Conservative #TCOT
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 3639
+                            [friends_count] => 3983
+                            [listed_count] => 49
+                            [created_at] => Thu Apr 16 20:42:45 +0000 2009
+                            [favourites_count] => 310
+                            [utc_offset] => -18000
+                            [time_zone] => Central Time (US & Canada)
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 27377
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => 000000
+                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/378800000015402253/95925dfbaca0b450ac82f777a428ca02.jpeg
+                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/378800000015402253/95925dfbaca0b450ac82f777a428ca02.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://a0.twimg.com/profile_images/3671713885/114d53595bfdc0a67f2425e632aad570_normal.jpeg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/3671713885/114d53595bfdc0a67f2425e632aad570_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/32144891/1372834084
+                            [profile_link_color] => A20907
+                            [profile_sidebar_border_color] => 000000
+                            [profile_sidebar_fill_color] => CF605E
+                            [profile_text_color] => 000000
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => guntotindemocra
+                                            [name] => Kelly Hollingsworth
+                                            [id] => 533781390
+                                            [id_str] => 533781390
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 16
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => en
+                )
+
+            [7] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => en
+                        )
+
+                    [created_at] => Fri Jul 26 06:58:01 +0000 2013
+                    [id] => 360655225763278848
+                    [id_str] => 360655225763278848
+                    [text] => "@DerrickNJones: Navy Seal's Father: Obama Set Up My Son To Be Executed! - http://t.co/ArcGTKtc36 #p2 #ows #tlot #tcot #anonymous #uniteblue
+                    [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 24523863
+                            [id_str] => 24523863
+                            [name] => MClark
+                            [screen_name] => mclark1951
+                            [location] => Texas
+                            [description] => Texas vet - served in 2 branches; I remember the oath and remain gladly bound by it
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 97
+                            [friends_count] => 138
+                            [listed_count] => 3
+                            [created_at] => Sun Mar 15 13:35:43 +0000 2009
+                            [favourites_count] => 21
+                            [utc_offset] => -18000
+                            [time_zone] => Central Time (US & Canada)
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 5334
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => EDECE9
+                            [profile_background_image_url] => http://a0.twimg.com/images/themes/theme3/bg.gif
+                            [profile_background_image_url_https] => https://si0.twimg.com/images/themes/theme3/bg.gif
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://a0.twimg.com/profile_images/1600904888/desk_normal.jpg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/1600904888/desk_normal.jpg
+                            [profile_link_color] => 088253
+                            [profile_sidebar_border_color] => D3D2CF
+                            [profile_sidebar_fill_color] => E3E2DE
+                            [profile_text_color] => 634047
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [text] => p2
+                                            [indices] => Array
+                                                (
+                                                    [0] => 98
+                                                    [1] => 101
+                                                )
+
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [text] => ows
+                                            [indices] => Array
+                                                (
+                                                    [0] => 102
+                                                    [1] => 106
+                                                )
+
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [text] => tlot
+                                            [indices] => Array
+                                                (
+                                                    [0] => 107
+                                                    [1] => 112
+                                                )
+
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [text] => tcot
+                                            [indices] => Array
+                                                (
+                                                    [0] => 113
+                                                    [1] => 118
+                                                )
+
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [text] => anonymous
+                                            [indices] => Array
+                                                (
+                                                    [0] => 119
+                                                    [1] => 129
+                                                )
+
+                                        )
+
+                                    [5] => stdClass Object
+                                        (
+                                            [text] => uniteblue
+                                            [indices] => Array
+                                                (
+                                                    [0] => 130
+                                                    [1] => 140
+                                                )
+
+                                        )
+
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://t.co/ArcGTKtc36
+                                            [expanded_url] => http://bit.ly/11hW0fP
+                                            [display_url] => bit.ly/11hW0fP
+                                            [indices] => Array
+                                                (
+                                                    [0] => 75
+                                                    [1] => 97
+                                                )
+
+                                        )
+
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => DerrickNJones
+                                            [name] => Derrick N Jones
+                                            [id] => 455543642
+                                            [id_str] => 455543642
+                                            [indices] => Array
+                                                (
+                                                    [0] => 1
+                                                    [1] => 15
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => en
+                )
+
+            [8] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => en
+                        )
+
+                    [created_at] => Fri Jul 26 06:57:59 +0000 2013
+                    [id] => 360655218947526656
+                    [id_str] => 360655218947526656
+                    [text] => Obama #phonyscandal arming the enemy and drug lords
+                    [source] => web
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 885454746
+                            [id_str] => 885454746
+                            [name] => SandyC
+                            [screen_name] => C57Sandy
+                            [location] => Mississippi
+                            [description] => Born again Christian - For God so love the world He gave his only Begotten Son that whosever believeth in Him shall not perish but have everlasting life
+                            [url] => 
+                            [entities] => stdClass Object
+                                (
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 168
+                            [friends_count] => 337
+                            [listed_count] => 0
+                            [created_at] => Tue Oct 16 22:31:58 +0000 2012
+                            [favourites_count] => 43
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 1251
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => C0DEED
+                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/844830323/83cc15f7cb127f93136dedd967a89831.jpeg
+                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/844830323/83cc15f7cb127f93136dedd967a89831.jpeg
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://a0.twimg.com/profile_images/3531186392/36ea0a517e5e1ee545e821258fde6619_normal.jpeg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/3531186392/36ea0a517e5e1ee545e821258fde6619_normal.jpeg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/885454746/1366126814
+                            [profile_link_color] => 0084B4
+                            [profile_sidebar_border_color] => FFFFFF
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [text] => phonyscandal
+                                            [indices] => Array
+                                                (
+                                                    [0] => 6
+                                                    [1] => 19
+                                                )
+
+                                        )
+
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [lang] => en
+                )
+
+            [9] => stdClass Object
+                (
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                            [iso_language_code] => en
+                        )
+
+                    [created_at] => Fri Jul 26 06:57:59 +0000 2013
+                    [id] => 360655216732946434
+                    [id_str] => 360655216732946434
+                    [text] => Obama: From King of the World to Paralysis in 6 Months #PJNET http://t.co/KDq76y4JJf via @joewmiller
+                    [source] => <a href="http://patriotjournalist.com" rel="nofollow">PatriotJournalist</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => stdClass Object
+                        (
+                            [id] => 154759765
+                            [id_str] => 154759765
+                            [name] => Lileen L Dunn
+                            [screen_name] => Lileensvf1
+                            [location] => Global Markets
+                            [description] => GOD FAMILY(IncludesMyAnimals) COUNTRY Conservative-#PJNET CRE Advisor-Equestrian Estates. Investments,MMP IP,Goldmines.R U living your life On Purpose?
+                            [url] => http://t.co/X6uaaydi6W
+                            [entities] => stdClass Object
+                                (
+                                    [url] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [url] => http://t.co/X6uaaydi6W
+                                                            [expanded_url] => http://Listedinflorida.com
+                                                            [display_url] => Listedinflorida.com
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 22
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => stdClass Object
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 1689
+                            [friends_count] => 1541
+                            [listed_count] => 25
+                            [created_at] => Sat Jun 12 03:43:12 +0000 2010
+                            [favourites_count] => 950
+                            [utc_offset] => -14400
+                            [time_zone] => Eastern Time (US & Canada)
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 57378
+                            [lang] => en
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [profile_background_color] => 0099B9
+                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/393065305/BabyKISS.jpg
+                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/393065305/BabyKISS.jpg
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://a0.twimg.com/profile_images/378800000101209950/da1b49ee278d39adcab1b235130c408b_normal.jpeg
+                            [profile_image_url_https] => https://si0.twimg.com/profile_images/378800000101209950/da1b49ee278d39adcab1b235130c408b_normal.jpeg
+                            [profile_link_color] => 0099B9
+                            [profile_sidebar_border_color] => 5ED4DC
+                            [profile_sidebar_fill_color] => 95E8EC
+                            [profile_text_color] => 3C3940
+                            [profile_use_background_image] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 0
+                    [entities] => stdClass Object
+                        (
+                            [hashtags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [text] => PJNET
+                                            [indices] => Array
+                                                (
+                                                    [0] => 55
+                                                    [1] => 61
+                                                )
+
+                                        )
+
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://t.co/KDq76y4JJf
+                                            [expanded_url] => http://joemiller.us/2013/05/obama-from-king-of-the-world-to-
+                                            [display_url] => joemiller.us/2013/05/obama-…
+                                            [indices] => Array
+                                                (
+                                                    [0] => 62
+                                                    [1] => 84
+                                                )
+
+                                        )
+
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [screen_name] => JoeWMiller
+                                            [name] => Joe Miller
+                                            [id] => 24618431
+                                            [id_str] => 24618431
+                                            [indices] => Array
+                                                (
+                                                    [0] => 89
+                                                    [1] => 100
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => en
+                )
+
+        )
+
+    [search_metadata] => stdClass Object
+        (
+            [completed_in] => 0.024
+            [max_id] => 360655247623983109
+            [max_id_str] => 360655247623983109
+            [next_results] => ?max_id=360655216732946433&q=%5C%22obama%5C%22&count=10&include_entities=1
+            [query] => %5C%22obama%5C%22
+            [refresh_url] => ?since_id=360655247623983109&q=%5C%22obama%5C%22&include_entities=1
+            [count] => 10
+            [since_id] => 0
+            [since_id_str] => 0
+        )
+
+)

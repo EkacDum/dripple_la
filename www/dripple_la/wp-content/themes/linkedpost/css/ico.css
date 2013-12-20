@@ -1,0 +1,261 @@
+.ico_class_sm_edit,.bookmark_ico ,.tile_bookm ,.bookm_iframe ,.mashv ,.tilev ,.listv ,.defaultv,.dripview ,.tzone ,.tcreate ,.topicview,.proiconin,.proiconout{
+	background:url("../images/navicon-edit-sm.png")no-repeat;
+	height: 21px;
+	width: 21px;
+}
+.ico_class_sm_bar  ,.redrip_ico ,.like_ico ,.email_ico ,.markread_ico ,.tile_view_count ,.tile_redrips ,.tile_comments ,.tile_mail ,.tile_iframe ,.cls_iframe ,.src_iframe ,.like_iframe ,.mail_iframe ,.analysis_ico{
+	background:url("../images/navicon-bar-sm.png")no-repeat;
+	height: 21px;
+	width: 21px;
+}
+
+.tile_view_count:hover ,.tile_redrips:hover ,.tile_comments:hover,.tile_mail:hover ,.tile_bookm:hover ,.tile_iframe:hover{
+	background-position-y: -1px !important;
+}
+.ico_class_md_dir, .redrip_blue_ico, .dbl_arrow_left_ico, .dbl_arrow_right_ico ,.mash_redrip_ico ,.mash_markread_ico{
+	background: url("../images/navicon-dir-med.png") no-repeat;
+    display: block;
+	width: 36px;
+	height: 36px;
+}
+.analysis_ico{
+	background-position: -437px -30px;
+}
+
+.tile_view_count{
+	background-position: -234px -30px;
+    display: block;
+    width: 35px;
+	float: left;
+	margin-left: 5px;
+}
+
+.tile_redrips{
+	background-position: -300px -30px;
+    display: block;
+    width: 35px;
+	float: left;
+}
+
+.tile_comments{
+	background-position: -270px -30px;
+    display: block;
+    width: 35px;
+	float: left;
+}
+
+.tile_mail{
+	background-position: -337px -30px;
+    width: 30px;
+}
+
+.tile_bookm{
+	background-position: -76px -30px;
+    width: 25px;
+}
+
+.tile_iframe{
+	background-position: -199px -30px;
+    width: 30px;
+}
+
+.redrip_blue_ico{
+    background-position: -247px 0;
+}
+.redrip_blue_ico:hover,.redrip_blue_ico.active{
+    background-position: -247px -39px;
+}
+.tcreate{
+	background-position: -440px -1px;
+}
+.tcreate:hover,.tcreate.active{
+	background-position: -440px -30px;
+}
+.tzone{
+	background-position: -1px -1px;
+}
+
+.tzone:hover,.tzone.active{
+	background-position: -1px -30px;
+}
+
+.chckdwn,.qmark,.ribdwn,.gearbtrn,.srchicon,.arrowryt,.proiconin,.proiconout,.defaultv,.dripview,.topicview,.listv,.tilev,.mashv{
+    cursor: pointer;
+	display: none;
+}
+.arrowup,.arrowbot{
+    cursor: pointer;
+	display: block;
+}
+.arrowdown{
+    cursor: pointer;
+}
+.shown{
+	display: block !important;
+}
+.defaultv{
+	background-position: -383px -1px;
+}
+.defaultv:hover,.defaultv.active{
+	background-position: -383px -30px;
+}
+.dripview{
+	background-position: -383px -30px;
+}
+.dripview:hover,.dripview.active{
+	background-position: -383px -1px;
+}
+.topicview{
+	background-position: -411px -30px;
+}
+.topicview:hover,.topicview.active{
+	background-position: -411px -1px;
+}
+.listv{
+	background-position: -240px -1px;
+}
+.listv:hover,.listv.active{
+	background-position: -240px -30px
+}
+.tilev{
+	background-position: -326px -1px;
+}
+.tilev:hover,.tilev.active{
+	background-position: -326px -30px
+}
+.mashv{
+	background-position: -355px -1px;
+}
+.mashv:hover,.mashv.active{
+	background-position: -355px -30px
+}
+.qmark:hover ,.qmark.activ,.gearbtrn:hover,.gearbtrn.active,.srchicon:hover,.srchicon.active{
+	background-position-y: -30px;
+}
+.chckdwn{
+	background-position:0 3px;
+
+}
+.chckdwn:hover,.chckdwn.active{
+	background-position:0px -21px;
+}
+
+.qmark{
+	background-position: -56px -1px;
+}
+
+.ribdwn{
+	background-position:-40px 3px;
+}
+
+.ribdwn:hover,.ribdwn.active{
+	background-position: -40px -21px;
+}
+
+.gearbtrn{
+	background-position: -102px -1px;
+}
+
+.srchicon{
+	background-position: -30px -1px;
+}
+
+.arrowryt{
+	background-position:-103px 3px;
+}
+
+.arrowryt:hover,.arrowryt.active{
+	background-position: -103px -21px;
+}
+
+.proiconin:hover ,.proiconin.active ,.proiconout{
+	background-position: -130px -1px;
+}
+
+.proiconout:hover ,.proiconout.active, .proiconin{
+	background-position: -130px -30px;
+}
+.arrowdown{
+	background-position: -173px -1px;
+}
+
+.arrowdown:hover,.arrowdown.active{
+	background-position: -173px -30px;
+}
+
+.arrowup{
+	background-position: -144px -1px;
+    float: right;
+}
+.arrowup:hover,.arrowup.active{
+	background-position: -144px -30px;
+}
+.arrowbot{
+	background-position: -144px -1px;
+    float: right;
+}
+.arrowext{
+	margin-right: 107px;
+	margin-bottom: 5px;
+}
+.arrowbot:hover,.arrowbot.active{
+	background-position: -144px -30px;
+}
+.redrip_ico ,.like_ico ,.email_ico ,.markread_ico {
+	display: block;
+	margin: 5px;
+}
+.redrip_ico:hover,.redrip_ico.active ,.like_ico:hover,.like_ico.active ,.email_ico:hover,.email_ico.active ,.markread_ico:hover,.markread_ico.active ,.bookmark_ico:hover,.bookmark_ico.active{
+	background-position-y: -1px;
+}
+.redrip_ico{
+	background-position: -379px -30px;
+}
+.mash_redrip_ico ,.mash_markread_ico{
+	display: block !important;
+	width: 33px !important;
+	height: 31px !important;
+}
+.mash_redrip_ico{
+	background-position: -248px -1px;
+}
+.mash_redrip_ico:hover,.mash_redrip_ico.active{
+	background-position: -248px -41px;
+}
+.mash_markread_ico{
+	background-position: -289px -40px;
+}
+.mash_markread_ico:hover,.mash_markread_ico.active{
+	background-position: -289px 0px;
+}
+.like_ico{
+	background-position: -307px -30px;
+}
+.email_ico{
+	background-position: -338px -30px;
+	width: 30px; 
+}
+.markread_ico{
+	background-position: -409px -30px;
+}
+.bookmark_ico{
+	background-position: -78px -30px;
+}
+
+.dbl_arrow_left_ico:hover,.dbl_arrow_left_ico.active, .dbl_arrow_right_ico:hover,.dbl_arrow_right_ico.active{
+	background-position-y: -41px;
+}
+
+.dbl_arrow_left_ico{
+    background-position: -116px -1px;
+}
+
+.dbl_arrow_right_ico{
+    background-position: -164px -1px;
+}
+
+/* cursor */
+
+.curson_pointer{
+    cursor:pointer;
+}

@@ -1,0 +1,473 @@
+
+stdClass Object
+(
+    [responseData] => stdClass Object
+        (
+            [results] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => The <b>Philippines</b> doesn&#39;t need further stimulus now, and the outlook for the global economy suggests the use of caution in monetary policy, central bank Governor Amando Tetangco said. “Domestic growth in the <b>Philippines</b> is strong, and therefore, we don&#39;t&nbsp;<b>...</b>
+                            [unescapedUrl] => http://www.bloomberg.com/news/2013-07-26/philippines-doesn-t-need-additional-stimulus-now-tetangco-says.html
+                            [url] => http%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2013-07-26%2Fphilippines-doesn-t-need-additional-stimulus-now-tetangco-says.html
+                            [title] => <b>Philippines</b> Doesn&#39;t Need Additional Stimulus, Tetangco Says
+                            [titleNoFormatting] => Philippines Doesn&#39;t Need Additional Stimulus, Tetangco Says
+                            [location] => 
+                            [publisher] => Bloomberg
+                            [publishedDate] => Thu, 25 Jul 2013 21:10:01 -0700
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-0-0&fd=S&url=http://www.bloomberg.com/news/2013-07-26/philippines-doesn-t-need-additional-stimulus-now-tetangco-says.html&cid=52778206749086&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNGLTv9TBdb6pic53UUUFXScFgzHvQ
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://www.bloomberg.com/image/ixZHfyBF.QDU.jpg
+                                    [tbUrl] => http://t2.gstatic.com/images?q=tbn:ANd9GcRZWAC9x8WpQp9GiH7R7x8gC4UT_yYQfNtmxKnNMuE-6SL1pYDqZalsLsQ
+                                    [originalContextUrl] => http://www.bloomberg.com/news/2013-07-26/philippines-doesn-t-need-additional-stimulus-now-tetangco-says.html
+                                    [publisher] => Bloomberg
+                                    [tbWidth] => 80
+                                    [tbHeight] => 58
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => <b>Philippines</b> future looks bright. 26 July 2013 Last updated at 04:42 BST. This week Asia Business Report has been taking a look at the <b>Philippines</b> as part of a special series. The country, known for its most famous export - its people - this year <b>...</b>
+                            [unescapedUrl] => http://www.bbc.co.uk/news/business-23460288
+                            [url] => http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-23460288
+                            [title] => <b>Philippines</b> future looks bright
+                            [titleNoFormatting] => Philippines future looks bright
+                            [location] => 
+                            [publisher] => BBC News
+                            [publishedDate] => Thu, 25 Jul 2013 20:43:42 -0700
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-1-0&fd=S&url=http://www.bbc.co.uk/news/business-23460288&cid=0&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNFiiJYoE_p2lrytNp8xfIei3jCNKQ
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://news.bbcimg.co.uk/media/images/68869000/jpg/_68869134_manila.skyline.g.jpg
+                                    [tbUrl] => http://t3.gstatic.com/images?q=tbn:ANd9GcRafcO1H6mrfgS7Dw7FJ4viwt6OqLFGTllGNVU4az7GQhT3M7ohcrdqCCM
+                                    [originalContextUrl] => http://www.bbc.co.uk/news/business-23460288
+                                    [publisher] => BBC News
+                                    [tbWidth] => 80
+                                    [tbHeight] => 45
+                                )
+
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=dmVps--tJVh9I9M2l63H1kReG1MPM&hl=en&ned=us
+                            [content] => On Tuesday, we shared with you the amusing note that a young man named Kobe dunked over LeBron James during a Nike-sponsored event in Manila that brought the Miami Heat superstar to the basketball-mad <b>Philippines</b> for the first time. In the midst of&nbsp;<b>...</b>
+                            [unescapedUrl] => http://sports.yahoo.com/blogs/nba-ball-dont-lie/lebron-explains-crucial-misses-philippines-exhibition-jersey-too-152955878.html
+                            [url] => http%3A%2F%2Fsports.yahoo.com%2Fblogs%2Fnba-ball-dont-lie%2Flebron-explains-crucial-misses-philippines-exhibition-jersey-too-152955878.html
+                            [title] => LeBron explains crucial misses late in <b>Philippines</b> exhibition: &#39;My jersey is <b>...</b>
+                            [titleNoFormatting] => LeBron explains crucial misses late in Philippines exhibition: &#39;My jersey is ...
+                            [location] => 
+                            [publisher] => Yahoo! Singapore News (blog)
+                            [publishedDate] => Wed, 24 Jul 2013 08:31:40 -0700
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-2-4&fd=S&url=http://sports.yahoo.com/blogs/nba-ball-dont-lie/lebron-explains-crucial-misses-philippines-exhibition-jersey-too-152955878.html&cid=52778204270244&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNHzHizUCuKolM7RcNIblAguKITLMw
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://img.bleacherreport.net/img/images/photos/002/414/549/hi-res-6141952_crop_north.jpg?w=650&h=440&q=75
+                                    [tbUrl] => http://t2.gstatic.com/images?q=tbn:ANd9GcSVtCWvkyxywcpLhxQBinkGqHltkol2eSw2KzzHB4bnsHsK6lBp9S3Q6eF5
+                                    [originalContextUrl] => http://bleacherreport.com/articles/1715200-lebron-james-blames-small-jersey-for-exhibition-loss-in-the-philippines
+                                    [publisher] => Bleacher Report
+                                    [tbWidth] => 80
+                                    [tbHeight] => 54
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.cbssports.com/nba/blog/eye-on-basketball/22873553/video-lebron-explains-crucial-late-miss-in-philippines-exhibition
+                                            [url] => http%3A%2F%2Fwww.cbssports.com%2Fnba%2Fblog%2Feye-on-basketball%2F22873553%2Fvideo-lebron-explains-crucial-late-miss-in-philippines-exhibition
+                                            [title] => VIDEO: LeBron explains crucial late miss in <b>Philippines</b> exhibition
+                                            [titleNoFormatting] => VIDEO: LeBron explains crucial late miss in Philippines exhibition
+                                            [location] => 
+                                            [publisher] => CBSSports.com
+                                            [publishedDate] => Wed, 24 Jul 2013 12:03:36 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-2-3&fd=S&url=http://www.cbssports.com/nba/blog/eye-on-basketball/22873553/video-lebron-explains-crucial-late-miss-in-philippines-exhibition&cid=52778204270244&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNHRU16rI4TZ4_DbrtW3VCBx4jfyjw
+                                            [language] => en
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://bleacherreport.com/articles/1715200-lebron-james-blames-small-jersey-for-exhibition-loss-in-the-philippines
+                                            [url] => http%3A%2F%2Fbleacherreport.com%2Farticles%2F1715200-lebron-james-blames-small-jersey-for-exhibition-loss-in-the-philippines
+                                            [title] => LeBron James Blames Small Jersey for Exhibition Loss in the <b>Philippines</b>
+                                            [titleNoFormatting] => LeBron James Blames Small Jersey for Exhibition Loss in the Philippines
+                                            [location] => 
+                                            [publisher] => Bleacher Report
+                                            [publishedDate] => Wed, 24 Jul 2013 12:43:58 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-2-2&fd=S&url=http://bleacherreport.com/articles/1715200-lebron-james-blames-small-jersey-for-exhibition-loss-in-the-philippines&cid=52778204270244&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNGIpX_XLXMtO2bM9RqmirI8rD_mFg
+                                            [language] => en
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.usatoday.com/story/sports/nba/heat/2013/07/23/lebron-james-philippines-nike-miami-heat/2577839/
+                                            [url] => http%3A%2F%2Fwww.usatoday.com%2Fstory%2Fsports%2Fnba%2Fheat%2F2013%2F07%2F23%2Flebron-james-philippines-nike-miami-heat%2F2577839%2F
+                                            [title] => LeBron James takes his talents to <b>Philippines</b>
+                                            [titleNoFormatting] => LeBron James takes his talents to Philippines
+                                            [location] => 
+                                            [publisher] => USA TODAY
+                                            [publishedDate] => Tue, 23 Jul 2013 06:52:48 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-2-1&fd=S&url=http://www.usatoday.com/story/sports/nba/heat/2013/07/23/lebron-james-philippines-nike-miami-heat/2577839/&cid=52778204270244&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNGXzJhEFKZjWzGF3NSLKcxdX4crBw
+                                            [language] => en
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.theborneopost.com/2013/07/25/lebronmania-hits-the-philippines/
+                                            [url] => http%3A%2F%2Fwww.theborneopost.com%2F2013%2F07%2F25%2Flebronmania-hits-the-philippines%2F
+                                            [title] => LeBronmania hits the <b>Philippines</b>
+                                            [titleNoFormatting] => LeBronmania hits the Philippines
+                                            [location] => 
+                                            [publisher] => The Borneo Post
+                                            [publishedDate] => Wed, 24 Jul 2013 17:47:55 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-2-0&fd=S&url=http://www.theborneopost.com/2013/07/25/lebronmania-hits-the-philippines/&cid=52778204270244&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNHQ-cNpoEIQ26q9j_MudYuuvtUj4A
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=dbuJQBjW29sn9mMPWhsjOg2fAfF1M&hl=en&ned=us
+                            [content] => Taiwan&#39;s president Ma Ying-jeou indicated a thawing in a dispute with the <b>Philippines</b> over the shooting death of a Taiwanese fisherman in May, saying he hoped warmer ties would resume quickly. “We are eager to restore relations as soon as possible,&nbsp;<b>...</b>
+                            [unescapedUrl] => http://www.bloomberg.com/news/2013-07-26/taiwan-s-ma-seeks-to-restore-relations-with-philippines-soon.html
+                            [url] => http%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2013-07-26%2Ftaiwan-s-ma-seeks-to-restore-relations-with-philippines-soon.html
+                            [title] => Taiwan&#39;s Ma Seeks to Restore Relations With <b>Philippines</b> Soon
+                            [titleNoFormatting] => Taiwan&#39;s Ma Seeks to Restore Relations With Philippines Soon
+                            [location] => 
+                            [publisher] => Bloomberg
+                            [publishedDate] => Thu, 25 Jul 2013 21:10:00 -0700
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-3-1&fd=S&url=http://www.bloomberg.com/news/2013-07-26/taiwan-s-ma-seeks-to-restore-relations-with-philippines-soon.html&cid=52778205956444&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNE2Lao0sKSmHTU01xJeL0iwvRov7Q
+                            [language] => en
+                            [relatedStories] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.thejakartaglobe.com/international/taiwans-ma-seeks-to-restore-relations-with-philippines/
+                                            [url] => http%3A%2F%2Fwww.thejakartaglobe.com%2Finternational%2Ftaiwans-ma-seeks-to-restore-relations-with-philippines%2F
+                                            [title] => Taiwan&#39;s Ma Seeks to Restore Relations With <b>Philippines</b>
+                                            [titleNoFormatting] => Taiwan&#39;s Ma Seeks to Restore Relations With Philippines
+                                            [location] => 
+                                            [publisher] => Jakarta Globe
+                                            [publishedDate] => Thu, 25 Jul 2013 21:07:53 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-3-0&fd=S&url=http://www.thejakartaglobe.com/international/taiwans-ma-seeks-to-restore-relations-with-philippines/&cid=52778205956444&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNFDSmRa4ZlmIkuY7d27pA6KHGFU0w
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=dqzRBxDMa9wku4MihgZDHSYwYomBM&hl=en&ned=us
+                            [content] => MANILA, <b>Philippines</b>—Moody&#39;s Investors Service signaled Thursday it was likely to elevate the Philippine government&#39;s debt rating to investment-grade, citing the former basket-case nation&#39;s robust economic growth and political stability. Two other <b>...</b>
+                            [unescapedUrl] => http://business.inquirer.net/134641/moodys-reviews-philippines-for-likely-debt-upgrade
+                            [url] => http%3A%2F%2Fbusiness.inquirer.net%2F134641%2Fmoodys-reviews-philippines-for-likely-debt-upgrade
+                            [title] => Moody&#39;s reviews <b>Philippines</b> for likely debt upgrade
+                            [titleNoFormatting] => Moody&#39;s reviews Philippines for likely debt upgrade
+                            [location] => 
+                            [publisher] => Inquirer.net
+                            [publishedDate] => Thu, 25 Jul 2013 17:57:22 -0700
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-4-6&fd=S&url=http://business.inquirer.net/134641/moodys-reviews-philippines-for-likely-debt-upgrade&cid=52778206333882&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNFJW7pb4tjezeb0TLluJdfM2xht4Q
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/v2_article_large/public/2013/05/30/philippines-construction-workers.jpg
+                                    [tbUrl] => http://t1.gstatic.com/images?q=tbn:ANd9GcT_98lAl_VroDI2FpekDN6KUQu1QihS47uVjBbBePY1EoohF6Z4f3HL9Mk
+                                    [originalContextUrl] => http://www.ibtimes.com/moodys-ratings-mco-reviews-philippines-suggesting-possible-upgrade-future-1359663
+                                    [publisher] => International Business Times
+                                    [tbWidth] => 80
+                                    [tbHeight] => 54
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.philstar.com/business/2013/07/25/1012381/philippines-under-review-3rd-major-investment-grade-rating
+                                            [url] => http%3A%2F%2Fwww.philstar.com%2Fbusiness%2F2013%2F07%2F25%2F1012381%2Fphilippines-under-review-3rd-major-investment-grade-rating
+                                            [title] => <b>Philippines</b> under review for 3rd major investment grade rating
+                                            [titleNoFormatting] => Philippines under review for 3rd major investment grade rating
+                                            [location] => 
+                                            [publisher] => Philippine Star
+                                            [publishedDate] => Thu, 25 Jul 2013 04:15:43 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-4-5&fd=S&url=http://www.philstar.com/business/2013/07/25/1012381/philippines-under-review-3rd-major-investment-grade-rating&cid=52778206333882&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNFPO5dvzxA9Hec3mXBOtjmjFD0Rww
+                                            [language] => en
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.ibtimes.com/moodys-ratings-mco-reviews-philippines-suggesting-possible-upgrade-future-1359663
+                                            [url] => http%3A%2F%2Fwww.ibtimes.com%2Fmoodys-ratings-mco-reviews-philippines-suggesting-possible-upgrade-future-1359663
+                                            [title] => Moody&#39;s Ratings (MCO) Reviews <b>Philippines</b>, Suggesting Possible Upgrade In <b>...</b>
+                                            [titleNoFormatting] => Moody&#39;s Ratings (MCO) Reviews Philippines, Suggesting Possible Upgrade In ...
+                                            [location] => 
+                                            [publisher] => International Business Times
+                                            [publishedDate] => Thu, 25 Jul 2013 05:09:49 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-4-4&fd=S&url=http://www.ibtimes.com/moodys-ratings-mco-reviews-philippines-suggesting-possible-upgrade-future-1359663&cid=52778206333882&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNEaaczzHU-GZqr3bUQODzjA42uoUw
+                                            [language] => en
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.interaksyon.com/article/67190/philippines-under-review-for-possible-upgrade-moodys-says
+                                            [url] => http%3A%2F%2Fwww.interaksyon.com%2Farticle%2F67190%2Fphilippines-under-review-for-possible-upgrade-moodys-says
+                                            [title] => <b>Philippines</b> under review for possible upgrade, Moody&#39;s says
+                                            [titleNoFormatting] => Philippines under review for possible upgrade, Moody&#39;s says
+                                            [location] => 
+                                            [publisher] => InterAksyon
+                                            [publishedDate] => Thu, 25 Jul 2013 03:14:52 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-4-3&fd=S&url=http://www.interaksyon.com/article/67190/philippines-under-review-for-possible-upgrade-moodys-says&cid=52778206333882&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNFHoPLNhCDnXY0yQ_0HEloD16qxug
+                                            [language] => en
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.sunstar.com.ph/breaking-news/2013/07/25/moody-s-reviewing-philippines-ratings-upgrade-294354
+                                            [url] => http%3A%2F%2Fwww.sunstar.com.ph%2Fbreaking-news%2F2013%2F07%2F25%2Fmoody-s-reviewing-philippines-ratings-upgrade-294354
+                                            [title] => Moody&#39;s reviewing <b>Philippines</b> ratings for upgrade
+                                            [titleNoFormatting] => Moody&#39;s reviewing Philippines ratings for upgrade
+                                            [location] => 
+                                            [publisher] => Sun.Star
+                                            [publishedDate] => Thu, 25 Jul 2013 03:31:53 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-4-2&fd=S&url=http://www.sunstar.com.ph/breaking-news/2013/07/25/moody-s-reviewing-philippines-ratings-upgrade-294354&cid=52778206333882&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNEj6Wt6qt8I5b3lm_KJEivtLGiwGQ
+                                            [language] => en
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.malaya.com.ph/index.php/news/nation/37006-moodys-reviews-ratings-possible-upgrade-seen
+                                            [url] => http%3A%2F%2Fwww.malaya.com.ph%2Findex.php%2Fnews%2Fnation%2F37006-moodys-reviews-ratings-possible-upgrade-seen
+                                            [title] => Moody&#39;s reviews ratings; possible upgrade seen
+                                            [titleNoFormatting] => Moody&#39;s reviews ratings; possible upgrade seen
+                                            [location] => 
+                                            [publisher] => Malaya
+                                            [publishedDate] => Thu, 25 Jul 2013 09:27:49 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-4-1&fd=S&url=http://www.malaya.com.ph/index.php/news/nation/37006-moodys-reviews-ratings-possible-upgrade-seen&cid=52778206333882&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNEbnNn17txurugZL5DJ3UI0hKhj2A
+                                            [language] => en
+                                        )
+
+                                    [5] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.pia.gov.ph/news/index.php?article=1751374755826
+                                            [url] => http%3A%2F%2Fwww.pia.gov.ph%2Fnews%2Findex.php%3Farticle%3D1751374755826
+                                            [title] => Moody&#39;s announces review of PH credit rating for possible upgrade
+                                            [titleNoFormatting] => Moody&#39;s announces review of PH credit rating for possible upgrade
+                                            [location] => 
+                                            [publisher] => Philippine Information Agency
+                                            [publishedDate] => Thu, 25 Jul 2013 09:00:59 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-4-0&fd=S&url=http://www.pia.gov.ph/news/index.php%3Farticle%3D1751374755826&cid=52778206333882&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNEbIUolxrTTW4XLIs_CUsaW5H1J8A
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=d1biCXOl5yNJ2TMu3zBbNQGVu_4-M&hl=en&ned=us
+                            [content] => MANILA, <b>Philippines</b>—The United States will help preserve the <b>Philippines</b>&#39; rapidly vanishing tropical rainforests under an $31.8-million debt-to-aid conversion signed in Manila on Thursday, the two governments said. Payments on debt owed by the&nbsp;<b>...</b>
+                            [unescapedUrl] => http://globalnation.inquirer.net/81527/us-debt-deal-helps-philippines-save-forests
+                            [url] => http%3A%2F%2Fglobalnation.inquirer.net%2F81527%2Fus-debt-deal-helps-philippines-save-forests
+                            [title] => US debt deal helps <b>Philippines</b> save forests
+                            [titleNoFormatting] => US debt deal helps Philippines save forests
+                            [location] => 
+                            [publisher] => Inquirer.net
+                            [publishedDate] => Thu, 25 Jul 2013 04:03:31 -0700
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-5-1&fd=S&url=http://globalnation.inquirer.net/81527/us-debt-deal-helps-philippines-save-forests&cid=52778206339854&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNGmOqt03ROGrW2-YVN5V4yp7i63aQ
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://1-ps.googleusercontent.com/h/globalnation.inquirer.net/files/2013/07/328x246xphilippine-forest.jpg.pagespeed.ic.Qot6zPPByz.jpg
+                                    [tbUrl] => http://t1.gstatic.com/images?q=tbn:ANd9GcQ6xrKU8Yu3ZNwSOfX38O130PXNHs3vArHGXKs9AtmcGPbUgRU25mEveLJN
+                                    [originalContextUrl] => http://globalnation.inquirer.net/81527/us-debt-deal-helps-philippines-save-forests
+                                    [publisher] => Inquirer.net
+                                    [tbWidth] => 80
+                                    [tbHeight] => 60
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.bworldonline.com/content.php?section=Economy&title=Debt-for-nature-deals-set&id=74005
+                                            [url] => http%3A%2F%2Fwww.bworldonline.com%2Fcontent.php%3Fsection%3DEconomy%26title%3DDebt-for-nature-deals-set%26id%3D74005
+                                            [title] => Debt-for-nature deals set
+                                            [titleNoFormatting] => Debt-for-nature deals set
+                                            [location] => 
+                                            [publisher] => BusinessWorld Online Edition
+                                            [publishedDate] => Thu, 25 Jul 2013 08:21:35 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-5-0&fd=S&url=http://www.bworldonline.com/content.php%3Fsection%3DEconomy%26title%3DDebt-for-nature-deals-set%26id%3D74005&cid=52778206339854&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNHIteiqLHqkOXo6m26RrX0mLyzWZg
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=dpII4TzW8TffkhMhe0hqA0cz3dmLM&hl=en&ned=us
+                            [content] => Education Secretary Armin Luistro issued guidelines last week on wearing the “niqab” in schools, intended mainly for the southern <b>Philippines</b>, where most of the country&#39;s Muslim minority live. “I want to make it clear that the Department of Education <b>...</b>
+                            [unescapedUrl] => http://gulfnews.com/news/world/philippines/philippines-muslim-veil-directive-only-a-request-1.1213314
+                            [url] => http%3A%2F%2Fgulfnews.com%2Fnews%2Fworld%2Fphilippines%2Fphilippines-muslim-veil-directive-only-a-request-1.1213314
+                            [title] => <b>Philippines</b>: Muslim veil directive only a &#39;request&#39;
+                            [titleNoFormatting] => Philippines: Muslim veil directive only a &#39;request&#39;
+                            [location] => 
+                            [publisher] => gulfnews.com
+                            [publishedDate] => Thu, 25 Jul 2013 05:56:18 -0700
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-6-2&fd=S&url=http://gulfnews.com/news/world/philippines/philippines-muslim-veil-directive-only-a-request-1.1213314&cid=52778206100668&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNHNBVJ-0z052S0JMCv7YfiP7VB7XA
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://www.google.com/hostednews/afp/media/ALeqM5hC-oP5P51DNXyJ2ZbCz4BPAMnT9g
+                                    [tbUrl] => http://t0.gstatic.com/images?q=tbn:ANd9GcQTRzNkcCPWbWVfYREwNaE2CMAB9AZ_JHh28O7isBqQOor6XAnL-9CdiY7_
+                                    [originalContextUrl] => http://www.google.com/hostednews/afp/article/ALeqM5iRgQaJONNGzB3KTJwhDaQWCsDDzA?docId=CNG.8b4704ca68dfbd1ea5852f2a57e6043b.721
+                                    [publisher] => AFP
+                                    [tbWidth] => 80
+                                    [tbHeight] => 51
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.theglobaldispatch.com/philippines-government-strongly-suggest-muslim-teachers-remove-hijab-in-class-19042/
+                                            [url] => http%3A%2F%2Fwww.theglobaldispatch.com%2Fphilippines-government-strongly-suggest-muslim-teachers-remove-hijab-in-class-19042%2F
+                                            [title] => <b>Philippines</b> government &#39;strongly suggest&#39; Muslim teachers remove hijab in class
+                                            [titleNoFormatting] => Philippines government &#39;strongly suggest&#39; Muslim teachers remove hijab in class
+                                            [location] => 
+                                            [publisher] => The Global Dispatch
+                                            [publishedDate] => Wed, 24 Jul 2013 16:11:14 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-6-1&fd=S&url=http://www.theglobaldispatch.com/philippines-government-strongly-suggest-muslim-teachers-remove-hijab-in-class-19042/&cid=52778206100668&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNHpHC9l6lVF9eLiD3fOTlqTtcdajw
+                                            [language] => en
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://newsinfo.inquirer.net/453139/muslim-lawmakers-ask-deped-chief-to-review-no-face-veil-policy-in-classes
+                                            [url] => http%3A%2F%2Fnewsinfo.inquirer.net%2F453139%2Fmuslim-lawmakers-ask-deped-chief-to-review-no-face-veil-policy-in-classes
+                                            [title] => Muslim lawmakers ask DepEd chief to review &#39;no face veil&#39; policy in classes
+                                            [titleNoFormatting] => Muslim lawmakers ask DepEd chief to review &#39;no face veil&#39; policy in classes
+                                            [location] => 
+                                            [publisher] => Inquirer.net
+                                            [publishedDate] => Thu, 25 Jul 2013 17:18:59 -0700
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-6-0&fd=S&url=http://newsinfo.inquirer.net/453139/muslim-lawmakers-ask-deped-chief-to-review-no-face-veil-policy-in-classes&cid=52778206100668&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNHHi9UgBdVsjdM2CzfbBZeCCPIMDQ
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => Throughout 2012, the U.S. increased its military and economic support for the <b>Philippines</b> government while at the same time expanding the American military presence in the country. This at a time when the Obama administration publicly pledges to <b>...</b>
+                            [unescapedUrl] => http://antiwar.com/blog/2013/07/25/obamas-asia-pivot-makes-conflict-more-likely-philippines-edition/
+                            [url] => http%3A%2F%2Fantiwar.com%2Fblog%2F2013%2F07%2F25%2Fobamas-asia-pivot-makes-conflict-more-likely-philippines-edition%2F
+                            [title] => Obama&#39;s Asia-Pivot Makes Conflict More Likely: <b>Philippines</b> Edition
+                            [titleNoFormatting] => Obama&#39;s Asia-Pivot Makes Conflict More Likely: Philippines Edition
+                            [location] => 
+                            [publisher] => Antiwar.com (blog)
+                            [publishedDate] => Thu, 25 Jul 2013 12:37:03 -0700
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct=us/0-7-0&fd=S&url=http://antiwar.com/blog/2013/07/25/obamas-asia-pivot-makes-conflict-more-likely-philippines-edition/&cid=52778206537781&ei=tjzyUbiZKdHckgXzqAE&usg=AFQjCNF8ZGXei7ggeFPWUMCeKG8Rqla3AA
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://antiwar.com/blog/wp-content/uploads/2012/11/Navy-Fleet1.jpeg
+                                    [tbUrl] => http://t2.gstatic.com/images?q=tbn:ANd9GcRUIQAUtxyYbEONtQTqg79hLxJY3HHa3saTdeJUdwUS8oImd2uHNO-c7A_i
+                                    [originalContextUrl] => http://antiwar.com/blog/2013/07/25/obamas-asia-pivot-makes-conflict-more-likely-philippines-edition/
+                                    [publisher] => Antiwar.com (blog)
+                                    [tbWidth] => 80
+                                    [tbHeight] => 53
+                                )
+
+                        )
+
+                )
+
+            [cursor] => stdClass Object
+                (
+                    [pages] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [start] => 0
+                                    [label] => 1
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [start] => 8
+                                    [label] => 2
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [start] => 16
+                                    [label] => 3
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [start] => 24
+                                    [label] => 4
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [start] => 32
+                                    [label] => 5
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [start] => 40
+                                    [label] => 6
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [start] => 48
+                                    [label] => 7
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [start] => 56
+                                    [label] => 8
+                                )
+
+                        )
+
+                    [estimatedResultCount] => 27144144
+                    [currentPageIndex] => 0
+                    [moreResultsUrl] => http://news.google.com/nwshp?oe=utf8&ie=utf8&source=uds&q=%22philippines%22&hl=en&start=0
+                )
+
+        )
+
+    [responseDetails] => 
+    [responseStatus] => 200
+)
